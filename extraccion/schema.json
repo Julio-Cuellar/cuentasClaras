@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Extraccion Cuentas Claras",
+  "description": "Salida estricta del LLM de extraccion (seccion 8 del documento). Los montos van como numero o null, nunca como texto.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["tipo_entrada", "confianza_extraccion", "producto", "credito", "senales_riesgo", "datos_faltantes"],
+  "properties": {
+    "tipo_entrada": {
+      "type": "string",
+      "enum": ["etiqueta_tienda", "oferta_credito", "cobranza", "desconocido"]
+    },
+    "confianza_extraccion": { "type": "number", "minimum": 0, "maximum": 1 },
+    "producto": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["descripcion", "precio_contado", "tienda"],
+      "properties": {
+        "descripcion": { "type": ["string", "null"] },
+        "precio_contado": { "type": ["number", "null"] },
+        "tienda": { "type": ["string", "null"] }
+      }
+    },
+    "credito": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "otorgante_nombre_comercial", "otorgante_razon_social", "monto_ofrecido", "monto_depositado",
+        "enganche", "abono", "periodicidad", "numero_pagos", "plazo_dias", "monto_total_a_pagar",
+        "comisiones", "seguros", "cat_publicado"
+      ],
+      "properties": {
+        "otorgante_nombre_comercial": { "type": ["string", "null"] },
+        "otorgante_razon_social": { "type": ["string", "null"] },
+        "monto_ofrecido": { "type": ["number", "null"] },
+        "monto_depositado": { "type": ["number", "null"] },
+        "enganche": { "type": ["number", "null"] },
+        "abono": { "type": ["number", "null"] },
+        "periodicidad": {
+          "type": ["string", "null"],
+          "enum": ["semanal", "quincenal", "mensual", "diario", "unico", null]
+        },
+        "numero_pagos": { "type": ["integer", "null"] },
+        "plazo_dias": { "type": ["integer", "null"] },
+        "monto_total_a_pagar": { "type": ["number", "null"] },
+        "comisiones": { "$ref": "#/definitions/cargos" },
+        "seguros": { "$ref": "#/definitions/cargos" },
+        "cat_publicado": { "type": ["number", "null"] }
+      }
+    },
+    "senales_riesgo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "pide_anticipo", "pide_permiso_contactos", "pide_permiso_fotos_archivos",
+        "deposito_menor_a_ofrecido", "plazo_menor_a_15_dias", "presion_urgencia", "texto_evidencia"
+      ],
+      "properties": {
+        "pide_anticipo": { "type": "boolean" },
+        "pide_permiso_contactos": { "type": "boolean" },
+        "pide_permiso_fotos_archivos": { "type": "boolean" },
+        "deposito_menor_a_ofrecido": { "type": "boolean" },
+        "plazo_menor_a_15_dias": { "type": "boolean" },
+        "presion_urgencia": { "type": "boolean" },
+        "texto_evidencia": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "datos_faltantes": { "type": "array", "items": { "type": "string" } }
+  },
+  "definitions": {
+    "cargos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["concepto", "monto", "momento"],
+        "properties": {
+          "concepto": { "type": "string" },
+          "monto": { "type": ["number", "null"] },
+          "momento": { "type": ["string", "null"], "enum": ["inicial", "periodico", "final", null] }
+        }
+      }
+    }
+  }
+}

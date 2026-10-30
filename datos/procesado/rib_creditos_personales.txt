@@ -1,0 +1,2204 @@
+Indicadores Básicos de Créditos Personales y
+                              Microcréditos
+                                            Datos a agosto de 2025
+
+
+
+
+                Uso Público
+
+           Información de acceso público.
+                                                                                                       Banco de México
+
+
+
+
+    Este reporte se publica en cumplimiento del artículo 4 Bis 2 de la Ley para la Transparencia y el
+                                   Ordenamiento de los Servicios Financieros.1
+
+
+
+
+                                                      ADVERTENCIA
+
+
+
+
+     Este reporte se elaboró con información proporcionada por instituciones de banca múltiple y
+     sociedades financieras de objeto múltiple reguladas, correspondiente a créditos personales y
+                    microcréditos que se encontraban en operación en agosto de 2025.2,3
+
+
+Cuando las instituciones financieras efectúan cambios a la información reportada, el Banco de México
+   hace las modificaciones correspondientes, por lo que los indicadores presentados tienen carácter
+                                       preliminar y están sujetos a revisión.4
+
+
+
+
+1 Artículo 4 Bis 2: “Con el objeto de incrementar la competencia en el sistema financiero, el Banco de México publicará
+
+  bimestralmente información e indicadores sobre el comportamiento de las tasas de interés y comisiones correspondientes
+  a los diferentes segmentos del mercado, a fin de que los usuarios cuenten con información que les permita comparar el
+  costo que cobran las instituciones de crédito, sociedades financieras de objeto limitado y sociedades financieras de objeto
+  múltiple reguladas en los diferentes productos que ofrecen”.
+2 El documento se realizó con la información proporcionada por las instituciones de crédito al 3 de noviembre de 2025.
+3 En este reporte se incluye información correspondiente a microcréditos, separada de la información de créditos personales,
+
+  en una sección dedicada específicamente a este tipo de créditos. Ello obedece a que, a partir de enero de 2022, fecha en
+  que entraron en vigor ajustes a los estándares contables de la CNBV, dicha institución comenzó a reportar de manera
+  separada a los microcréditos de otros tipos de créditos. Ver:
+  https://www.dof.gob.mx/nota_detalle.php?codigo=5606777&fecha=04/12/2020#gsc.tab=0.
+4 Es posible encontrar información histórica similar a la presentada en varias secciones de este reporte a través de la
+
+  herramienta “Análisis de indicadores de crédito (tasas de interés)” que el Banco de México pone a disposición de las
+  personas usuarias.
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                 2
+                                                                                                                                      Banco de México
+
+Contenido
+1.     Introducción ..................................................................................................................................... 4
+
+2.     El mercado de créditos personales y microcréditos: evolución de indicadores agregados............. 5
+
+3.     Condiciones de oferta de los créditos personales............................................................................ 9
+
+     3.1 Universo de la información incluida: conformación de la cartera comparable de créditos
+       personales ........................................................................................................................................ 9
+
+     3.2 Características de la cartera comparable de créditos personales .............................................. 10
+
+     3.3 Comparativos de las características de los créditos personales otorgados en el periodo
+       septiembre 2024-agosto 2025 para las distintas instituciones ...................................................... 17
+
+     3.4 Principales distribuciones por institución intermediaria de la cartera comparable de créditos
+       personales otorgados en el último año .......................................................................................... 23
+
+4.     Condiciones de oferta de los microcréditos ................................................................................... 28
+
+     4.1 Universo de la información incluida: conformación de la cartera comparable de microcréditos
+       ........................................................................................................................................................ 28
+
+     4.2 Características de la cartera comparable de microcréditos ....................................................... 29
+
+     4.3 Comparativo de las características de los microcréditos otorgados por instituciones .............. 34
+
+     4.4 Principales distribuciones, por institución, de la cartera comparable de microcréditos ........... 37
+
+5. Apéndice I: Comparativos para la cartera total comparable de créditos personales a agosto de
+2025 y para la cartera otorgada en el mes de agosto de 2025 de créditos personales y
+microcréditos……………………………………………………………………………………………………………………………………41
+
+     5.1 Cartera comparable total de créditos personales a agosto de 2025 .......................................... 41
+
+     5.2 Cartera comparable de créditos personales otorgados durante el mes de agosto de 2025 ...... 43
+
+     5.3 Cartera comparable de microcréditos grupales otorgados durante el mes de agosto de 2025 45
+
+     5.4 Cartera comparable de microcréditos individuales otorgados durante el mes de agosto de
+       2025 ................................................................................................................................................ 46
+
+6.     Apéndice II: Información metodológica ......................................................................................... 47
+
+     6.1 Universo de créditos personales incluidos en el reporte............................................................ 47
+
+     6.2 Universo de microcréditos incluidos en el reporte ..................................................................... 48
+
+     6.3 Tasas de interés y plazos ............................................................................................................. 49
+
+     6.4 Criterios de inclusión de instituciones ........................................................................................ 50
+
+
+                                                                       Uso Público
+
+                                                                  Información de acceso público.
+
+
+
+          Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                                                    3
+                                                                                                       Banco de México
+
+1. Introducción
+
+La finalidad de este reporte es proporcionar, al público en general y a analistas de información
+financiera, elementos para dar seguimiento a los términos de créditos personales y microcréditos que
+las instituciones de banca múltiple y las sociedades financieras de objeto múltiple reguladas (SOFOM
+E.R.) ofrecen al público en general, con el objeto de brindar mejor información a las y los consumidores,
+propiciar una mejor toma de decisiones y fomentar la competencia en estos mercados.
+
+Este reporte forma parte de la serie de Reportes de Indicadores Básicos (RIB) dedicados a divulgar
+información que permita comparar las condiciones en que se otorgan los créditos, de conformidad con
+la Ley para la Transparencia y el Ordenamiento de los Servicios Financieros (LTOSF).
+La información utilizada para elaborar la parte central de este reporte proviene del “Formulario de
+créditos al consumo no revolventes CNR”,5 en el que las instituciones de banca múltiple y SOFOM E.R.
+proporcionan bimestralmente al Banco de México información acerca de cada uno de los créditos no
+revolventes (nómina, personales, automotrices, microcréditos, y de adquisición de bienes de consumo
+duradero) que hayan otorgado y que se encuentren en operación. Los indicadores aquí presentados
+son elaborados agregando, a distintos niveles, la información individual de estos créditos. En las
+secciones en las que se hace uso de información distinta al formulario referido, se indica el origen de
+la fuente.
+Este reporte se estructura de la siguiente manera: la primera sección consiste en esta introducción, la
+sección 2 presenta distintos indicadores con información agregada, tanto de créditos personales como
+de microcréditos; entre esta información se encuentra la evolución de la cartera, su morosidad y su
+concentración.6 La sección 3 y sección 4 corresponden al análisis central de créditos personales y
+microcréditos, respectivamente, donde se examina la denominada cartera comparable7 de estos
+créditos; aquí se presentan indicadores de tasas de interés, montos y plazos, tanto para el sistema,
+como para instituciones individuales; este análisis se realiza para los créditos personales otorgados en
+el periodo septiembre 2024 - agosto 2025 y para el total de microcréditos, con independencia de su
+fecha de otorgamiento.8 El Apéndice I presenta información adicional de créditos personales sin
+distinción de su fecha de otorgamiento (total de la cartera) e información de créditos personales y
+microcréditos otorgados durante el mes de agosto de 2025. Finalmente, el Apéndice II incluye
+información metodológica.
+
+
+
+
+5 Para más información sobre el “Formulario de créditos al consumo no revolventes CNR” que el Banco de México recibe
+
+  bimestralmente de las instituciones, ver:
+  https://www.banxico.org.mx/waFormulariosDGASF/WEB/CNRAyudasGenericasCompleto.pdf
+6 La fuente de información para la Sección 2 corresponde, en su totalidad, a la Comisión Nacional Bancaria y de Valores
+
+  (CNBV). Esta fuente de información clasificó los microcréditos individuales como personales hasta diciembre de 2021; para
+  los periodos subsecuentes, se realizó la distinción entre microcréditos individuales y créditos personales.
+7 La cartera comparable se refiere a la información de créditos de la que fue excluida aquella referente a créditos con
+
+  características que podrían no reflejar las condiciones de contratación de créditos nuevos en el mercado. Esta puede ser el
+  caso de créditos atrasados, en mora o asociados a productos con características marcadamente distintas. En el Apéndice II
+  se presenta más información sobre la conformación de la cartera comparable.
+8 En agosto de 2025, el 99.4 por ciento de los microcréditos comparables tuvo un plazo menor a un año. Por tal motivo, se
+
+  considera que el total de la cartera comparable y la cartera comparable del último año para este tipo de créditos son
+  equivalentes.
+
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                 4
+                                                                                                     Banco de México
+
+2. El mercado de créditos personales y microcréditos: evolución de
+   indicadores agregados9
+
+Para fines de este reporte, un crédito personal es un tipo de préstamo otorgado por instituciones
+financieras reguladas a cualquier persona física; este tipo de crédito generalmente no requiere una
+garantía, el plazo de vigencia se establece en el momento de su contratación y la tasa pactada es fija a
+lo largo de la vigencia del crédito. Los requisitos más comunes para obtener un crédito personal son:
+tener un ingreso mensual mínimo comprobable, una antigüedad mínima en el puesto de trabajo actual
+y buenas referencias de crédito. Al no ser un préstamo con garantía, y al no existir una fuente de pago
+predefinida, el riesgo del crédito suele ser de los más elevados dentro de la cartera crediticia de las
+instituciones bancarias.
+Por su parte, un microcrédito, de acuerdo con las Disposiciones de carácter general aplicables a las
+instituciones de crédito, también conocidas como Circular Única de Bancos,10 se define de la siguiente
+forma: son créditos otorgados a personas físicas cuyos recursos están destinados a financiar
+actividades de producción o comercialización de bienes o prestación de servicios, en los que la fuente
+principal de pago la constituyen los ingresos obtenidos por dichas actividades y cuyos plazos se
+encuentran bajo alguna de las siguientes modalidades:
+  1. Individual: cuando un crédito sea otorgado a un solo individuo y teniendo como límite máximo
+     el monto equivalente en moneda nacional a 30 mil UDIS y un plazo máximo de tres años.
+  2. Grupal: cuando el crédito sea otorgado a grupos de individuos que avalen los adeudos o se
+     constituyan como deudores solidarios entre sí y teniendo como límite máximo el monto
+     equivalente en moneda nacional de 11,500 UDIS por cada integrante del grupo y un plazo
+     máximo de un año.11
+Tanto los créditos personales como los microcréditos forman parte del crédito al consumo.12 Entre
+septiembre de 2024 y agosto de 2025, se presentó un aumento en el saldo del crédito al consumo. En
+dicho periodo, el saldo de los créditos personales aumentó 12.74 por ciento en términos reales; para
+microcréditos, el crecimiento fue de 14.21 por ciento en términos reales (Gráfica 1a). El saldo de los
+créditos personales y microcréditos representó, en agosto de 2025, el 16.0 por ciento y 2.8 por ciento
+de la cartera de crédito al consumo, respectivamente; la participación de los créditos personales
+exhibió un aumento de 0.4 puntos porcentuales respecto a su participación en agosto de 2024,
+mientras que la de los microcréditos también registró un incremento de 0.1 puntos porcentuales
+(gráfica 1b).13
+
+
+
+
+9 La fuente de información de esta sección es la Comisión Nacional Bancaria y de Valores. En esta fuente se reportaron los
+
+   microcréditos individuales y créditos personales como un mismo tipo de crédito y los microcréditos grupales se reportan
+   en la cartera de “otros créditos al consumo” hasta diciembre de 2021. Las comparaciones de los indicadores de 2022 con
+   los de periodos anteriores deben tomarse con precaución debido a dichos cambios metodológicos.
+10 En particular, el Artículo 1 de las Disposiciones de carácter general aplicables a las instituciones de crédito.
+11 Al 31 de agosto de 2025, 30 mil UDIS equivalió a 256,161 pesos mexicanos y 11.5 mil UDIS a 98,195 pesos mexicanos.
+12 Los demás componentes del crédito al consumo son: tarjetas de crédito, créditos de nómina, créditos automotrices,
+
+   créditos para la adquisición de bienes muebles, operaciones de arrendamiento financiero y otros créditos de consumo.
+13 Existen instituciones otorgantes no reguladas de créditos personales que no están incluidos en estas cifras.
+
+                                                      Uso Público
+
+                                                 Información de acceso público.
+
+
+
+       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                               5
+                                                                                                                                                          Banco de México
+
+                                                           Gráfica 1
+       Evolución de la cartera de crédito al consumo otorgado por la banca múltiple consolidada14
+  a) Tasa de crecimiento real anual del saldo                                  b) Cartera total de crédito al consumo
+                  de los créditos                                                 (Miles de millones de pesos corrientes)
+                    (Por ciento)
+            50%      2023-2024 sin Cetelem                                   2,000
+                     2023-2024 Cetelem                                                                                                                                          Nómina
+            45%
+                     2024-2025                                               1,800
+            40%                                                                                                                                                                 Personales
+                                                                             1,600
+            35%                                                              1,400                                                                                              Automotriz
+            30%                                                              1,200
+                                                                                                                                                                                Microcréditos
+            25%                                                              1,000
+                                                                                                                                                                                Otros créditos
+            20%                                                                800                                                                                              de consumo
+            15%                                                                600                                                                                              Tarjeta de
+                                                                                                                                                                                crédito
+            10%                                                                400
+             5%                                                                200
+             0%                                                                   0
+
+                                                                                      Ago-22   Dic-22   Abr-23   Ago-23   Dic-23   Abr-24   Ago-24   Dic-24   Abr-25   Ago-25
+
+
+Nota: Para la Gráfica 1a se reporta la tasa de crecimiento real entre los meses de agosto de cada año para los periodos 2023-2024
+y 2024-2025. El crecimiento de créditos automotrices entre 2023 y 2024 refleja la incorporación de Cetelem a Grupo Financiero
+Inbursa, en marzo de 2024, anteriormente esta cartera no se cuantificaba por no consolidar con alguna institución bancaria. Para
+la Gráfica 1b, la cartera total es igual a la suma de las carteras vigente y vencida. “Otros créditos al consumo” incluye adquisición
+de bienes muebles, operaciones de arrendamiento capitalizable y otros créditos al consumo. La cartera de créditos personales
+incluye microcréditos individuales hasta diciembre de 2021. Fuente: CNBV. Cifras a agosto de 2025.
+
+      El índice de morosidad (IMOR)15,16 de créditos personales presentó un comportamiento decreciente
+      desde marzo de 2024 hasta agosto de 2024. A partir de septiembre 2024, ha exhibido una tendencia
+      estable situándose en 4.6 por ciento para agosto de 2025; en el caso de microcréditos, el índice ha
+      exhibido una tendencia al alza desde febrero 2023 hasta febrero de 2025, con algunos periodos breves
+      de disminución. Para agosto de 2025, el IMOR se sitúa en 3.4 por ciento. En el caso del índice de
+      morosidad ajustado (IMORA),17 que incorpora las quitas y castigos que las instituciones realizan, el
+      correspondiente a créditos personales experimentó una ligera tendencia ascendente desde agosto de
+      2023, alcanzando su punto máximo en febrero de 2024. A partir de marzo de 2024, mostró una
+      tendencia estable, registrando un valor de 12.3 por ciento en agosto de 2025; para microcréditos, el
+
+
+
+      14 Se refiere a la información de instituciones de banca múltiple y de sociedades financieras de objeto múltiple reguladas
+
+        (SOFOM E.R.) con vínculos patrimoniales con alguna institución bancaria.
+      15 El índice de morosidad es la razón de cartera vencida (créditos en etapa 3 a partir de enero de 2022) entre la cartera total
+
+        (considerando también la cartera valuada a valor razonable).
+      16 A partir de enero de 2022, entró en vigor la norma internacional de información financiera 9 (IFRS9), publicada el 13 de
+
+        marzo de 2020 en el Diario Oficial de la Federación. En ella se actualizaron los criterios de contabilidad aplicables a las
+        instituciones de crédito para hacerlos consistentes con las normas de información financiera nacionales e internacionales.
+        Uno de los cambios más notables fue la eliminación de los conceptos de cartera vigente y vencida, los cuales se sustituyeron
+        por los conceptos de créditos en etapa 1, 2 o 3. Con esta nueva clasificación, los créditos en etapa 3 son equivalentes a los
+        créditos en cartera vencida de la clasificación anterior. Para más información ver Art 91 de las “Disposiciones Generales
+        Aplicables a las Instituciones de Crédito”.
+      17 Las aplicaciones o castigos de la cartera vencida (etapa 3) se definen como la cancelación del crédito cuando existe
+
+        evidencia suficiente de que el crédito no será recuperado. Para una explicación detallada del IMORA, ver Banco de México,
+        Reporte del Sistema Financiero, 2007.
+                                                               Uso Público
+
+                                                          Información de acceso público.
+
+
+
+              Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                                                                             6
+                                                                                                                                                                                              Banco de México
+               valor de este índice fue de 12.4 por ciento en agosto de 2025. Los créditos personales presentaron una
+               de las tasas de morosidad más altas entre los distintos tipos de crédito al consumo. (Gráficas 2a y 2b).
+
+                                                        Gráfica 2
+                         Índice de morosidad y morosidad ajustado de la banca múltiple consolidada
+               a) Índice de morosidad mensual                                                                                        b) Índice de morosidad ajustado mensual
+                                                 Por ciento                                                                                                  Por ciento
+6%                                                                                                                          14%
+                                                                                                                                                                                                  12.9%
+                                                                                                                                                                                                  12.4%
+                                                                                                      Personales                                                                                  12.3%
+                                                                                                                            12%
+5%                                                                                                                                                                                                     Tarjeta de
+                                                                                                  4.6%                                                                                                 crédito
+                                                                                                                                                                                                  10.4%
+                                                                                                                            10%
+4%                                                                                                    Microcréditos
+                                                                                                                                                                                                         Microcréditos
+
+                                                                                                  3.4%                       8%
+                                                                                                  3.2%
+3%                                                                                                    Tarjeta de                                                                                         Personales
+                                                                                                  2.7%crédito                6%
+
+2%                                                                                                                                                                                                       Nómina
+                                                                                                      Nómina                 4%
+                                                                                                                                                                                                  2.9%
+1%
+                                                                                                  1.1%
+                                                                                                                             2%                                                                          Automotriz
+                                                                                                      Automotriz
+
+0%                                                                                                                           0%
+
+                                                                                                                                  Ago-23   Dic-23   Abr-24    Ago-24   Dic-24   Abr-25   Ago-25
+      Ago-22    Dic-22   Abr-23    Ago-23   Dic-23   Abr-24   Ago-24   Dic-24   Abr-25   Ago-25
+
+
+     Fuente: CNBV. Cifras a agosto de 2025. En la fuente de información de créditos personales se incluyen también microcréditos
+     individuales hasta diciembre de 2021.
+     Nota: Las quitas y castigos de microcréditos comenzaron a registrarse a partir de enero de 2022. Por lo anterior, solo es posible
+     obtener información del IMORA de este tipo de créditos a partir de enero de 2023.
+
+
+               En cuanto a la concentración en el mercado de créditos personales y microcréditos otorgados por la
+               banca múltiple y las SOFOM E.R., en agosto de 2025, el índice de Herfindahl-Hirschman18 (IHH) para
+               créditos personales se posicionó en 1,787 puntos y el de microcréditos en 9,342 puntos. En el mismo
+               mes, la participación combinada de las dos instituciones oferentes con mayor saldo en cartera (CR2)
+               de créditos personales fue de 56.0 por ciento y la de microcréditos fue de 98.8 por ciento. La
+               participación de las cinco instituciones oferentes más grandes (CR5) para créditos personales fue de
+               76.8 por ciento (Gráfica 3a y Gráfica 3b). Destaca que la concentración en el mercado de créditos
+               personales fue la segunda menor entre los tipos de crédito al consumo, mientras que la de
+               microcréditos fue la mayor (Gráfica 3c).
+
+
+
+
+               18 El índice de Herfindahl-Hirschman (IHH) se obtiene de sumar las participaciones en el saldo de mercado de todas las
+
+                instituciones oferentes, elevadas al cuadrado; en el análisis de fusiones en México, la Comisión Federal de Competencia
+                Económica ha establecido límites del IHH para autorizar una fusión: el nivel resultante debe ser menor a 2,000 puntos o el
+                incremento menor a 75 puntos (DOF, 24 de julio de 1998).
+                                                                                                                        Uso Público
+
+                                                                                                                   Información de acceso público.
+
+
+
+                                  Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                                                                                     7
+                                                                                                                                                                                                                                                 Banco de México
+
+                                                                                       Gráfica 3
+                                                                 Concentración en el mercado de créditos personales
+                                                                (con base en el saldo de la banca múltiple consolidada)
+ a) Evolución mensual de los niveles de concentración                                                                                             b) Evolución mensual de los niveles de concentración
+         en el mercado de créditos personales                                                                                                                en el mercado de microcréditos
+                                                                                            CR2
+                                                                                                                                                                                              IHH                                                   CR2
+                                IHH                                                         CR5
+  3,500                                                                                                                              100          10,300                                                                                                           100
+  3,000                                                                                                                              90           10,100
+                                                                                                                                                                                                                                                                   98
+                                                                                                                                                   9,900
+  2,500                                                                                                                              80            9,700                                                                                                           96
+  2,000                                                                                                                              70            9,500
+                                                                                                                                                                                                                                                                   94
+  1,500                                                                                                                              60            9,300
+                                                                                                                                                   9,100                                                                                                           92
+  1,000                                                                                                                              50
+                                                                                                                                                   8,900
+                                                                                                                                                                                                                                                                   90
+   500                                                                                                                               40            8,700
+     0                                                                                                                               30            8,500                                                                                                           88
+                                                                                                                                                                                                                              Oct-23
+                                                                                                                                                                                                                                                Feb-24
+
+                            Feb-23                               Feb-24                                  Feb-25                                                Ago-22   Oct-22   Dic-22   Feb-23   Abr-23   Jun-23   Ago-23
+          Ago-22   Nov-22            May-23   Ago-23   Nov-23             May-24   Ago-24      Nov-24             May-25    Ago-25
+                                                                                                                                                                                                                                                Abr-24
+                                                                                                                                                                                                                                                Jun-24
+                                                                                                                                                                                                                                                Ago-24
+                                                                                                                                                                                                                                                Oct-24
+                                                                                                                                                                                                                                                 Dic-24
+                                                                                                                                                                                                                              Dic-23
+                                                                                                                                                                                                                                                Feb-25
+                                                                                                                                                                                                                                                Abr-25
+                                                                                                                                                                                                                                                Jun-25
+                                                                                                                                                                                                                                                Ago-25
+
+
+                                                                     c) IHH para diversos tipos de crédito en agosto de 2025
+
+                                                  10,000                                                                                                                                                                      9,342
+                                                   9,000
+                                                   8,000
+                                                   7,000
+                                                   6,000
+                                                   5,000
+                                                   4,000
+                                                                                                                           2,530
+                                                   3,000
+                                                                                      1,787                                                    1,668                             1,960
+                                                   2,000
+                                                   1,000
+                                                       0
+
+
+                                                                                            Personales                                            Automotriz
+                                                                                                                              Nómina
+                                                                                                                                                                                  Tarjetas
+
+                                                                                                                                                                                 de Crédito                                     Microcréditos
+
+Nota: IHH corresponde al índice de Herfindahl-Hirschman, CR2 es la participación acumulada de las dos instituciones predominantes y CR5
+a la participación acumulada de las cinco instituciones predominantes. No se incluye información de la concentración de las cinco
+instituciones oferentes con mayor participación (CR5) de microcréditos debido a que la fuente de información solo incluye a tres
+instituciones: Compartamos, Banco Forjadores y Santander.
+Fuente: CNBV, Indicadores de cartera de crédito. Cifras a agosto de 2025.
+
+
+
+
+                                                                                                                                          Uso Público
+
+                                                                                                                                 Información de acceso público.
+
+
+
+                            Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                                                                                                                                8
+                                                                                                        Banco de México
+
+3. Condiciones de oferta de los créditos personales
+
+En agosto de 2025, la cartera total de créditos personales otorgados por instituciones financieras
+reguladas fue de 320.3 mil millones de pesos y se conformó por 15.2 millones de créditos.
+
+En la sección 3.1, se delimita el universo de información de créditos personales para formar la
+denominada cartera comparable, que es un conjunto de créditos que permiten la comparación de los
+términos ofrecidos por diferentes instituciones. En la sección 3.2 se muestran indicadores agregados
+de créditos personales; en la sección 3.3 se presentan tabulados comparativos para las distintas
+instituciones.
+
+          3.1 Universo de la información incluida: conformación de la cartera comparable de
+              créditos personales
+La cartera comparable incluye aquellos créditos otorgados en condiciones similares entre
+instituciones. Para conformar la cartera comparable de créditos personales se excluyen los siguientes
+créditos:19
+
+    •    Los que fueron otorgados a personas relacionadas con la institución financiera, conforme al
+         artículo 73 de la Ley de Instituciones de Crédito.
+    •    Los créditos asociados con productos que no son accesibles para el público en general.20
+    •    Los créditos que fueron reestructurados, ya que en algunos casos pueden ser modificadas las
+         condiciones originales de contratación.
+    •    Los créditos que se encuentran con atrasos en los pagos (créditos en etapa 1 con más de un
+         día de atraso o créditos en etapa 2), así como los créditos en mora o cartera vencida (créditos
+         en etapa 3). 21
+    •    Los que no estuvieron denominados en moneda nacional.
+    •    Los que presentaron tasa cero o reportaron un monto original mayor a 1 millón de pesos
+         porque no se consideran comparables a los productos de crédito personal estándar.22
+    •    Los créditos de productos con características marcadamente distintas al resto de otros
+         productos que dificulta su comparabilidad.
+
+Por último, la información de las instituciones reguladas de créditos personales que tuvieron una
+participación menor al 0.25 por ciento del número total de créditos de la cartera comparable se agregó
+bajo el concepto “Otras instituciones”, porque la información individual de dichas instituciones suele
+ser muy variable.23
+
+
+19 En el Apéndice II se describen, con mayor detalle, los criterios establecidos para conformar el universo de créditos de la
+
+ cartera comparable de créditos personales.
+20 Los productos no accesibles al público general son los créditos con condiciones preferenciales para personal y ex personal
+
+   de la Institución, de su grupo financiero y del mismo grupo económico, cuando las condiciones del crédito sean más
+   favorables que las establecidas para el público en general.
+21 Ver nota al pie 18.
+22 Existen créditos personales denominados “redisponibles” o renovables, los cuales sí son incluidos dentro de la cartera
+
+   comparable. Estos son similares a los créditos revolventes (en el sentido de que la persona acreditada puede volver a hacer
+   uso de la línea de crédito conforme va liquidando su adeudo) pero son considerados como créditos no revolventes debido
+   a que, al hacerse cada nueva disposición, se constituye un crédito nuevo con una nueva tabla de amortización y un plazo
+   definido diferente al correspondiente al crédito original.
+23 Esto se hizo para todos los cuadros de este reporte en los que se muestra información individual de cada una de las
+
+   instituciones, incluidos los cuadros del Apéndice I.
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                  9
+                                                                                                          Banco de México
+
+            3.2 Características de la cartera comparable de créditos personales24
+  En esta sección, se presentan indicadores agregados de la cartera comparable de los créditos
+  personales respecto a las siguientes características: 1) tasa de interés, 2) monto, 3) plazo (en meses)25
+  y pérdida esperada,26 para créditos otorgados en el periodo septiembre 2024-agosto 2025 y vigentes
+  a agosto de 2025. El Cuadro 1 resume la información de estos créditos y de las segmentaciones que se
+  hacen en este reporte.27
+                                            Cuadro 1
+               Cartera comparable de créditos personales vigentes a agosto de 2025
+
+
+
+
+Notas: El total de créditos se refiere a los créditos existentes al 31 de agosto de 2025, independientemente de la fecha en que
+fueron otorgados.
+La segmentación a), b) y c) se refiere al monto original de los créditos otorgados en el periodo septiembre de 2024-agosto de
+2025.
+Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+revisión.
+
+  El número de créditos personales originados en el periodo septiembre de 2024-agosto de 2025
+  ascendió a 8.2 millones, con un saldo de 141.0 mil millones de pesos; los créditos otorgados en este
+  periodo representaron el 74.5 por ciento de la totalidad de créditos personales comparables a agosto
+  de 2025. Ello es debido a que un gran porcentaje de este tipo de préstamos se otorga a plazos menores
+  a un año. La tasa de interés promedio ponderado de los créditos otorgados durante el periodo
+  septiembre de 2024-agosto de 2025, y vigentes a agosto de 2025, fue de 40.5 por ciento (Cuadro 1).
+
+
+
+
+  24 Se consideran créditos que se encontraban en operación al 31 de agosto de 2025.
+  25 En el Apéndice II se explica, de manera más detallada, la forma en la que se calcularon los plazos mensuales.
+
+  26 La pérdida esperada está definida como la media de la distribución de probabilidad del importe de las pérdidas de un
+    activo. Para fines del cálculo de las reservas para riesgos crediticios, la pérdida esperada se determina multiplicando la
+    probabilidad de incumplimiento por el producto de la severidad de la pérdida en caso de incumplimiento y por la exposición
+    al incumplimiento, en los términos del Artículo 2 Bis 92 de las Disposiciones Generales Aplicables a las Instituciones de
+    Crédito (Circular Única de Bancos).
+  27 El Cuadro 1 presenta, adicionalmente, información de créditos personales comparables sin importar su fecha de
+
+    otorgamiento y de créditos personales comparables otorgados en el mes de agosto de 2025 y que, igualmente, se
+    encontraban en operación al 31 de agosto de 2025. En el Apéndice I se da información más detallada de estos grupos de
+    créditos.
+                                                          Uso Público
+
+                                                     Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                   10
+                                                                                                                   Banco de México
+La distribución del saldo de los créditos otorgados en ese periodo respecto a la tasa de interés mostró
+una amplia dispersión (Gráfica 4a y Gráfica 4b); el 87.5 por ciento del saldo de estos créditos se
+concentró en tasas entre 24.0 y 65.0 por ciento; la mitad del saldo se otorgó a tasas menores o iguales
+a 37.0 por ciento.
+
+                                                             Gráfica 4
+        Distribución del saldo de la cartera comparable de créditos personales de acuerdo
+        con su tasa de interés - Créditos otorgados en el periodo septiembre 2024- agosto
+                                  2025 y vigentes a agosto de 2025
+          a) Distribución porcentual                                           b) Distribución porcentual acumulada
+
+
+
+
+         Tasa promedio ponderado por saldo (por ciento)                          Tasa mediana de la distribución del saldo (por ciento)
+ Para fines ilustrativos, el saldo otorgado a tasas mayores a 100 por ciento se acumula en 100.
+ Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+ revisión.
+
+La tasa de interés promedio ponderado de los créditos personales otorgados en el periodo septiembre
+2024-agosto 2025 fue de 40.5 por ciento, 2.6 puntos porcentuales menor que la tasa del periodo
+septiembre 2023-agosto 2024. El rango de la distribución de la tasa de interés registró una estabilidad
+durante los periodos referidos: el valor que acumuló el cinco por ciento del saldo se mantuvo en 23.0
+por ciento y el valor que acumuló el noventa y cinco por ciento disminuyó de 77.0 a 64.7 por ciento
+(Gráfica 5a).
+
+La tasa de interés promedio ponderado por saldo de los créditos otorgados en el último año mostró
+una tendencia creciente entre agosto de 2021 y agosto de 2023, la cual se revirtió en periodos
+posteriores. Para los créditos otorgados durante el mes de agosto de 2025, la tasa de interés promedio
+ponderado por saldo presentó una disminución de 5.2 puntos porcentuales respecto a la tasa de los
+créditos otorgados durante el mes de agosto de 2024, equivalente a una reducción de 13.0 por ciento
+(Gráfica 5b).
+
+
+
+
+                                                          Uso Público
+
+                                                    Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                                   11
+                                                                                                         Banco de México
+
+                                          Gráfica 5
+   Evolución de la tasa promedio ponderado de créditos personales por saldo de la cartera
+                  comparable vigentes a la fecha de corte de la información
+        a) Créditos otorgados en los últimos doce                                  b) Evolución de tasas de interés
+                           meses
+                         Por ciento                                                         Por ciento
+
+
+
+
+Nota: Para la Gráfica 5a, la caja muestra los cuartiles 1, 2 y 3 (con el 25%, 50% y 75% de los datos). Los brazos muestran los
+valores máximos y mínimos de los datos, tomando al percentil 5 de la distribución como valor mínimo y al percentil 95 como
+valor máximo. Los datos se toman a agosto de cada año.
+Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+revisión.
+
+Al segmentar la cartera comparable respecto al monto original del crédito, las tasas de interés
+promedio ponderado presentaron un comportamiento diferenciado (Gráfica 6a). La tasa promedio
+ponderado por saldo de los créditos con monto entre cinco y diez mil pesos fue la más alta (58.8 por
+ciento), comparada con la del resto de segmentos considerados; En particular, la tasa promedio
+ponderado de estos créditos fue 23.6 puntos porcentuales mayor que la de los créditos de 20 mil pesos
+o más (35.1 por ciento) y 8.9 puntos porcentuales mayor a la de los créditos con montos menores a
+mil pesos (49.9 por ciento).
+
+Los créditos superiores a 20 mil pesos tuvieron una participación del 75.5 por ciento del saldo, pero
+solo del 18.1 por ciento del número de créditos; es decir, los créditos personales otorgados son, en su
+mayoría, de montos bajos.
+
+Al segmentar la cartera comparable respecto a los plazos, las tasas de interés promedio ponderado
+fueron menores para plazos de crédito más largos; de esta forma, la tasa promedio ponderado de
+créditos personales con plazo mayor a 36 meses (29.2 por ciento) fue 34.6 puntos porcentuales menor
+que la de los créditos con plazos de hasta 12 meses (63.8 por ciento). Destaca que los créditos con
+plazos mayores a 36 meses representan únicamente el 7.1 por ciento del número de créditos
+otorgados en el último año, pero concentran el 46.4 por ciento del saldo (Gráfica 6b).
+
+
+
+
+                                                       Uso Público
+
+                                                  Información de acceso público.
+
+
+
+      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                 12
+                                                                                                           Banco de México
+
+                                             Gráfica 6
+  Tasa promedio ponderado por saldo de créditos personales para distintas combinaciones de
+     monto original y plazo. Cartera comparable del periodo septiembre 2024-agosto 2025
+a) Tasa promedio ponderado por saldo de acuerdo con el                           _b) Tasa promedio ponderado por saldo
+              monto original del crédito                                           de acuerdo con el plazo del crédito
+                           Por ciento                                                             Por ciento
+
+
+
+
+   Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R.
+   Cifras sujetas a revisión.
+
+
+      El monto promedio de los créditos personales otorgados en el periodo septiembre 2024-agosto 2025
+      fue de 19.1 mil pesos (Gráfica 7a), cifra superior en 1,200 pesos respecto al valor observado en los
+      créditos otorgados en el periodo septiembre 2023-agosto 2024. Lo anterior equivale a un aumento de
+      3.0 por ciento en términos reales. La mitad de los créditos se otorgó por un monto original menor o
+      igual a 6.0 mil pesos. Asimismo, en agosto de 2025, 95 por ciento de los créditos se otorgaron por
+      montos menores a 70.0 mil pesos; el año anterior este valor se había ubicado en 67.5 mil pesos; es
+      decir, se observó un aumento en los montos de los créditos que se otorgan (Gráfica 7b).
+
+
+
+
+                                                            Uso Público
+
+                                                       Información de acceso público.
+
+
+
+             Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                          13
+                                                                                                         Banco de México
+
+                                           Gráfica 7
+Distribución de créditos personales conforme a su monto original. Cartera comparable del
+                          periodo septiembre 2024-agosto 2025
+       a) Créditos otorgados entre septiembre                                  b)   Cartera comparable de créditos
+                   2024-agosto 2025                                               otorgados en el periodo septiembre
+                                                                                 2023-agosto 2024 (2024) y septiembre
+                                                                                       2024- agosto 2025 (2025)
+
+
+
+
+          Promedio del monto original del crédito (miles de pesos)
+Nota: Para la gráfica 7b, la caja muestra los cuartiles 1, 2 y 3 (con el 25%, 50% y 75% de los datos). Los brazos muestran los
+valores máximos y mínimos de los datos, tomando al percentil 5 de la distribución como valor mínimo y al percentil 95 como
+valor máximo. Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R.
+Cifras sujetas a revisión.
+
+
+Los créditos con plazo de hasta 12 meses representaron el 18.7 por ciento de los créditos otorgados
+en el periodo septiembre 2024-agosto 2025; sin embargo, si se considera solamente a los créditos
+concedidos en el mes de agosto de 2025, se observa que estos correspondieron al 48.5 por ciento de
+la cartera, es decir, la mayoría de los préstamos son de corto plazo (Gráfica 8a). El plazo promedio de
+los créditos otorgados en el periodo septiembre 2024-agosto 2025 fue de 25 meses, mismo valor que
+el plazo promedio de los créditos otorgados en el periodo septiembre 2023-agosto 2024. Sin embargo,
+el umbral por el que se otorgó el 95 por ciento de los créditos aumentó de 48 meses en agosto de 2024
+a 60 meses en agosto de 2024. (Gráfica 8b).
+
+
+
+
+                                                         Uso Público
+
+                                                    Información de acceso público.
+
+
+
+       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                   14
+                                                                                                        Banco de México
+
+                                                 Gráfica 8
+                          Plazo de la cartera comparable de créditos personales
+        a) Distribución de la cartera a agosto de                                   b) Cartera comparable de créditos
+           2025, de acuerdo con su plazo original                                    otorgados en el periodo septiembre-
+                                                                                    2023-agosto 2024 (2024) y septiembre-
+                                                                                          2024-agosto 2025 (2025)
+
+
+
+
+ Nota: Para la gráfica 8b, la caja muestra los cuartiles 1, 2 y 3 (con el 25%, 50% y 75% de los datos). Los brazos muestran los
+ valores máximos y mínimos de los datos, tomando al percentil 5 de la distribución como valor mínimo y al percentil 95 como
+ valor máximo. Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R.
+ Cifras sujetas a revisión.
+
+La Gráfica 9 presenta, en un mapa de temperatura, las tasas de interés promedio ponderado
+correspondientes a las distintas combinaciones de plazo y monto original para los créditos concedidos
+durante el periodo septiembre 2024-agosto 2025. Las combinaciones se organizan en nueve regiones.
+El diagrama también presenta a las tres instituciones con mayor participación en saldo en cada una de
+las regiones en que se divide el mapa, así como su participación acumulada en la región (en paréntesis).
+La tasa de interés fue más elevada para montos pequeños y plazos cortos; el plazo fue el mayor
+determinante del nivel de tasa (las tasas más elevadas se concentran en plazos bajos y las tasas más
+bajas se concentran en los plazos más largos). Las instituciones ligadas a una cadena comercial (Azteca
+y BanCoppel) y así como Compartamos tuvieron una participación preponderante en la región de
+plazos y montos bajos (región 1), mientras que las instituciones no asociadas a una cadena comercial
+(como BBVA México, Banamex y Consubanco) fueron más relevantes en las regiones de montos y
+plazos más elevados (región 9).
+Los créditos de hasta 20 mil pesos y con plazo de 20 a 40 meses (región 4), disminuyeron su
+participación en número de créditos en comparación con los del año anterior. Estos créditos
+representaron, en agosto de 2024, el 54.0 por ciento del total de créditos, mientras que en agosto de
+2025 su participación fue de 51.2 por ciento. Por otro lado, los créditos de 60 a 100 mil pesos y con
+plazo de 20 a 40 meses (región 6) fueron los que incrementaron más su participación pasando de 1.5
+a 1.8 por ciento del número de créditos y de 11.2 a 13.0 por ciento del saldo.
+
+
+
+
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                   15
+                                                                                                      Banco de México
+
+                                                                  Gráfica 9
+    a) Tasa de interés por plazo y monto original. Créditos personales otorgados en el periodo
+                                   septiembre 2024-agosto 202528
+       (En paréntesis la participación en el saldo agregado de las principales instituciones de cada región)
+
+
+
+
+                           b) Participación de cada región en el total de mercado (%)
+
+
+
+
+ Nota: Para la elaboración de la Gráfica 9, se calculó la tasa de interés promedio ponderado por saldo de los créditos que se
+ encontraban en cada combinación de monto y plazo. Para aquellas combinaciones de monto y plazo en donde no existieron
+ observaciones, se utilizó el método de interpolación para aproximar la tasa de interés promedio ponderado. Cada color de tasa de
+ interés acumula el 20 por ciento del número de créditos, representando cada cambio de color los quintiles de la distribución de
+ tasas de interés, es decir, el valor de cada corte corresponde a la tasa a la que se otorgaron el 20, 40, 60 y 80 por ciento de los
+ créditos otorgados en el periodo septiembre 2024-agosto 2025. El 99 por ciento de los créditos concedidos en el periodo fueron
+ otorgados a una tasa menor o igual a 136.4 por ciento.
+ Fuente: Gráfica elaborada con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a revisión.
+
+
+
+
+28 Vigentes a la fecha de corte de la información.
+
+
+
+                                                          Uso Público
+
+                                                     Información de acceso público.
+
+
+
+      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                 16
+                                                                                                       Banco de México
+
+           3.3 Comparativos de las características de los créditos personales otorgados en el
+               periodo septiembre 2024-agosto 2025 para las distintas instituciones
+En este apartado se presentan indicadores de tasas de interés, plazos, montos y pérdida esperada para
+el sistema y para cada una de las instituciones intermediarias que ofrecieron créditos personales
+comparables en el periodo septiembre 2024-agosto 2025, que se encontraban vigentes al 31 de agosto
+de 2025.
+Se presentan indicadores para los siguientes segmentos:
+    1) con monto original menor o igual a 5 mil pesos,
+    2) con monto original mayor a 5 mil pesos y menor o igual a 30 mil pesos, y
+    3) con monto original mayor a 30 mil pesos.
+Los créditos otorgados en el periodo septiembre 2024-agosto 2025 con monto original mayor a 5 mil
+pesos y menor o igual a 30 mil pesos fueron, a su vez, segmentados en dos grupos de acuerdo con el
+plazo del crédito: menor o igual a 30 meses y mayor a 30 meses. Esto debido a que las condiciones de
+otorgamiento difieren significativamente entre estos dos segmentos. Las segmentaciones facilitan las
+comparaciones entre instituciones oferentes ya que incluyen, en cada una, solo a las instituciones que
+ofrecen productos similares.
+
+Para los créditos que conforman la cartera comparable en el periodo septiembre 2024-agosto 2025 se
+observa lo siguiente (Cuadro 2):
+
+       •       La tasa de interés promedio ponderado por saldo del sistema fue de 40.5 por ciento, 2.7
+               puntos porcentuales menor que la de los créditos otorgados en el periodo septiembre
+               2023-agosto 2024. Las instituciones con las tasas más bajas fueron Inbursa (22.9 por
+               ciento), Multiva (23.7 por ciento) y BBVA México (27.1 por ciento).
+       •       Las instituciones que presentaron mayores reducciones en la tasa de interés promedio
+               ponderado fueron Compartamos (-3.5 puntos porcentuales), Scotiabank (-2.1 puntos
+               porcentuales) y Azteca (-1.8 puntos porcentuales).
+       •       Las instituciones que ofrecieron los montos de crédito promedio más elevados fueron
+               Santander (231 mil pesos), Scotiabank (176 mil pesos) y HSBC (170 mil pesos).
+       •       Las instituciones que otorgaron la mayor proporción del total de créditos fueron: Azteca
+               (83.1 por ciento), BanCoppel (4.1 por ciento) y BBVA México (3.9 por ciento), mismas que
+               concentraron el 91.1 por ciento del número de créditos. Por otro lado, las instituciones
+               que concentraron un mayor saldo fueron: Azteca (38.0 por ciento), BBVA México (22.1
+               por ciento) y Banamex (8.8 por ciento). Estas instituciones tuvieron una participación
+               acumulada del 68.8 por ciento del saldo de los créditos otorgados en el periodo.29
+       •       La pérdida esperada agregada fue de 4.6 por ciento. Las instituciones con las pérdidas
+               esperadas más elevadas fueron: BanCoppel (6.4 por ciento), Compartamos (6.3 por
+               ciento) y Azteca (5.5 por ciento).
+
+
+
+
+29La clientela que participa en el mercado de créditos personales tiene, en promedio, 2.1 créditos. La clientela con créditos
+
+ personales de las instituciones ligadas a una cadena comercial (como Azteca y BanCoppel) reportan, en promedio, 2.6
+ créditos. Esto contrasta con la clientela de las instituciones que no tienen vínculos con cadenas comerciales ya que tienen,
+ en promedio, 1.1 créditos.
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                 17
+                                                                                                          Banco de México
+
+
+                                       Cuadro 2
+ Cartera comparable de créditos personales otorgados entre septiembre 2024-agosto 2025
+   (En paréntesis el cambio respecto a los créditos otorgados entre septiembre 2023-agosto 2025)
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025. Las instituciones
+agrupadas en “Otras Instituciones”, por no haber contado con el número de créditos requerido para aparecer en el
+cuadro, fueron: Bansí, Actinver, Autofin, Bankaool, ION Financiera, CI Banco, Banorte, Mifel, Bancrea, Ve por Más, Bajío,
+Afirme, Banregio, Banco Bineo, Ualá, Fin útil y Forjadores. En conjunto, estas instituciones representaron el 0.7 por ciento
+del segmento.
+n.a. No aplica
+Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+revisión.
+
+
+
+
+                                                          Uso Público
+
+                                                     Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                     18
+                                                                                             Banco de México
+ Al interior de la cartera comparable del periodo septiembre 2024-agosto 2025 se formaron tres
+ segmentos: monto original menor o igual a 5,000 pesos, monto original mayor a 5,000 pesos y menor
+ o igual a 30,000 pesos y monto superior a 30,000 pesos. Se observó que el primero concentró el 47.6
+ por ciento de los créditos, pero solo el 4.6 del saldo, mientras que el tercero solo el 12.0 por ciento de
+ los créditos, pero el 67.6 por ciento del saldo (ver Cuadro 1).
+
+ Igualmente, se observó que, en general, los créditos del segmento con monto de hasta 5 mil pesos
+ presentaron niveles de tasa de interés mayores que los de los otros segmentos. Además, este
+ segmento fue dominado por instituciones de nicho o asociadas a una cadena comercial (Cuadro 2.1):
+
+      •     La tasa de interés promedio ponderado por saldo para este segmento fue de 57.8 por ciento.
+            BBVA México (37.5 por ciento), Azteca (57.7 por ciento) y BanCoppel (61.8 por ciento)
+            presentaron las tasas de interés promedio ponderado más bajas.
+      •     Las instituciones con el mayor número de créditos fueron Azteca (97.4 por ciento), BanCoppel
+            (1.8 por ciento) y BBVA México (0.3 por ciento). Las instituciones con la mayor participación
+            en el saldo fueron: Azteca (95.8 por ciento), BanCoppel (3.1 por ciento), y BBVA México (0.6
+            por ciento).
+      •     La pérdida esperada para este segmento fue de 6.0 por ciento. Las instituciones con la pérdida
+            esperada más elevada fueron: BanCoppel (7.2 por ciento), BBVA México (7.1 por ciento) y Fin
+            Útil (6.3 por ciento).
+
+
+                                          Cuadro 2.1
+Cartera comparable de créditos personales de monto menor o igual a 5,000 pesos, otorgados en el
+                             periodo septiembre 2024-agosto 2025
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo. Las instituciones agrupadas en “Otras
+Instituciones”, por no haber contado con el número de créditos requerido para aparecer en el cuadro, fueron: Inbursa,
+Multiva, Bancrea, Banamex, Banco Bineo, Scotiabank, HSBC, Santander, Consubanco, Banregio, Ualá y Forjadores. En su
+conjunto estas instituciones representaron el 0.3 por ciento del número de créditos del segmento.
+n.a. No aplica
+Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+revisión.
+
+
+
+
+                                                    Uso Público
+
+                                               Información de acceso público.
+
+
+
+          Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                 19
+                                                                                                        Banco de México
+  En el segmento de créditos que tuvieron un monto mayor a 5,000 pesos y menor o igual a 30,000 pesos
+  (Cuadro 2.2), se encontró que:
+
+       •     La tasa de interés promedio ponderado por saldo del sistema fue 55.2 por ciento. Las
+             instituciones que otorgaron crédito a las tasas promedio ponderado más bajas fueron
+             Banamex (33.5 por ciento), BBVA México (35.9 por ciento) y Consubanco (41.9 por ciento).
+       •     Las instituciones que otorgaron un mayor número de créditos en este segmento fueron Azteca
+             (79.8 por ciento), BanCoppel (7.2 por ciento) y Compartamos (6.8 por ciento). Estas
+             instituciones concentraron el 93.8 por ciento del número de créditos y el 92.0 por ciento del
+             saldo del segmento.
+       •     La pérdida esperada fue de 5.8 por ciento. Las instituciones con las pérdidas esperadas más
+             elevadas fueron: Compartamos (6.8 por ciento), BanCoppel (6.5 por ciento) y BBVA México
+             (6.4 por ciento).
+
+                                       Cuadro 2.2
+  Cartera comparable de créditos personales de monto mayor a 5,000 y hasta 30,000 pesos,
+                  otorgados en el periodo septiembre 2024-agosto 2025
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo. Las instituciones agrupadas en “Otras
+Instituciones”, por no haber contado con el número de créditos requerido para aparecer en el cuadro, fueron: Mercader, Inbursa,
+Mifel, ION Financiera, Bankaool, CI Banco, Multiva, Banorte, Bancrea, Bajío, Afirme, HSBC, Scotiabank, Santander, Banregio,
+Banco Bineo, Ualá y Forjadores. En su conjunto representaron el 1.2 por ciento del número de créditos.
+n.a. No aplica.
+Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+revisión.
+
+
+  Dentro del segmento de créditos personales con monto mayor a 5,000 pesos y hasta 30,000 pesos se
+  formaron dos sub-segmentos de acuerdo con el plazo del crédito, ya que sus características fueron
+  significativamente diferentes. El primer sub-segmento se conformó por los créditos del monto referido
+  con un plazo menor o igual a 30 meses y el segundo, por los que tenían un plazo mayor a 30 meses.
+
+
+
+
+                                                         Uso Público
+
+                                                    Información de acceso público.
+
+
+
+           Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                             20
+                                                                                                     Banco de México
+En estos sub-segmentos se encontró lo siguiente (Cuadro 2.2.1):
+
+    •     En el sub-segmento de plazos mayores a 30 meses, la tasa promedio ponderado por saldo
+          (50.0 por ciento) fue 9.5 puntos porcentuales menor a la del otro sub-segmento y el monto
+          promedio (15.1 mil pesos) fue 1.2 veces mayor que el del sub-segmento de plazos cortos.
+    •     En ambos sub-segmentos, Azteca es la institución preponderante en número y saldo de los
+          créditos. En el sub-segmento de plazos cortos, esta institución concentra el 74.2 y 75.0 por
+          ciento del número y saldo de crédito, respectivamente; para el sub-segmento de plazos largos,
+          esta institución concentra el 89.0 y 87.0 por ciento del número y saldo de los créditos,
+          respectivamente.
+    •     La pérdida esperada fue de 6.2 por ciento para el segmento de créditos con plazo de hasta 30
+          meses y 5.2 por ciento para el segmento de créditos con plazo mayor a 30 meses.
+
+                                      Cuadro 2.2.1
+Cartera comparable de créditos personales de monto mayor a 5,000 pesos y hasta 30,000
+  pesos, otorgados en el periodo septiembre 2024-agosto 2025, segmentados por plazo
+
+
+
+
+ Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo. Las instituciones agrupadas en “Otras
+ Instituciones”, por no haber contado con el número de créditos requerido para aparecer en el cuadro, fueron para plazos
+ menores o iguales a 30 meses: Actinver, Autofin, Bankaool, Inbursa, Mifel, CI Banco, Banorte, Bancrea, Afirme, Bajío,
+ Multiva, HSBC, Scotiabank, Santander, Banco Bineo, Banregio, Ualá y Forjadores; estos créditos representaron el 0.6 por
+ ciento del número de créditos otorgados. Las instituciones agrupadas en “Otras instituciones”, para créditos con plazos
+ mayores a 30 meses fueron: CI Banco, Banorte, Ve por Más, Bankaool, Afirme, Banamex, Bajío, HSBC, Scotiabank, Banregio,
+ Santander, Ualá y Forjadores; estos créditos representaron el 0.7 por ciento de los créditos otorgados.
+ n.a. No aplica.
+ Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+ revisión.
+
+
+
+
+                                                      Uso Público
+
+                                                 Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                             21
+                                                                                                    Banco de México
+En el segmento de créditos con monto superior a 30,000 pesos (Cuadro 2.3), se observó lo siguiente:
+
+   •     La tasa de interés promedio ponderado por saldo del sistema fue de 33.3 por ciento. Las
+         instituciones que otorgaron créditos a una tasa promedio ponderado más baja en este
+         segmento fueron Inbursa (22.8 por ciento), Multiva (23.5 por ciento) y BBVA México (26.7 por
+         ciento).
+   •     Las instituciones que mayor número de créditos otorgaron en este segmento fueron Azteca
+         (37.7 por ciento), BBVA México (22.5 por ciento) y Consubanco (11.7 por ciento). Estas
+         instituciones concentraron el 71.9 por ciento del número de créditos.
+   •     Las instituciones que concentraron la mayor proporción del saldo fueron BBVA México (31.2
+         por ciento), Azteca (16.6 por ciento) y Banamex (12.8 por ciento). Estas tres instituciones
+         concentraron el 60.6 por ciento del saldo total.
+   •     La pérdida esperada fue de 4.1 por ciento. Las instituciones con las pérdidas esperadas más
+         elevadas fueron Compartamos (6.1 por ciento), BanCoppel (6.0 por ciento) y Bajío (5.7 por
+         ciento).
+
+                                      Cuadro 2.3
+  Cartera comparable de créditos personales de monto mayor a 30,000 pesos otorgados
+                      en el periodo septiembre 2024-agosto 2025
+
+
+
+
+ Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025. Las instituciones
+ agrupadas en “Otras Instituciones”, por no haber contado con el número de créditos requerido, fueron: Bansí, Actinver,
+ Autofin, Bankaool, ION Financiera, CI Banco, Banorte, Mifel, Ve por Más, Afirme, Banco Bineo y Forjadores. En su
+ conjunto, representaron el 0.5 por ciento del número de créditos.
+ n.a. No aplica.
+ Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas
+ a revisión.
+
+
+
+
+                                                      Uso Público
+
+                                                 Información de acceso público.
+
+
+
+       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                             22
+                                                                                                                    Banco de México
+
+                      3.4 Principales distribuciones por institución intermediaria de la cartera comparable
+                           de créditos personales otorgados en el último año
+           En esta sección se presenta información de saldo respecto a la tasa de interés, plazo y monto de los
+           créditos personales otorgados en el periodo septiembre 2024-agosto 2025, para cada una de las
+           instituciones que aparece en el Cuadro 2. El orden de presentación de las instituciones es ascendente
+           respecto a la tasa promedio ponderado por saldo de los créditos otorgados en el periodo
+           mencionado.30
+
+           Respecto a las distribuciones de los indicadores de tasa, plazo y monto se puede observar lo siguiente:
+
+                •     La distribución del saldo respecto a la tasa de interés fue diversa, con múltiples valores, a
+                      excepción de BanCoppel e Inbursa, que otorgaron casi la totalidad de sus créditos a una tasa
+                      única.
+                •     Se observa una correlación positiva entre el monto y el plazo. Aquellas instituciones con
+                      mayores montos promedio mostraron también mayores plazos promedio.
+                •     La distribución del plazo no es continua, las instituciones otorgaron créditos con plazos
+                      determinados por múltiplos de 6 meses.
+
+                                                                 3.4.1 Inbursa
+                                                         Principales distribuciones
+a. Distribución del saldo respecto a la                b. Distribución del monto original                          c. Distribución del plazo
+                  tasa
+
+
+
+
+    Tasa promedio ponderado por saldo                                     Monto promedio                                Plazo promedio
+   Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a revisión.
+
+
+
+
+           30 Solo se presenta a las instituciones con al menos el 0.25 por ciento del número total de créditos emitidos en dicho periodo.
+
+                                                                   Uso Público
+
+                                                              Información de acceso público.
+
+
+
+                    Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                   23
+                                                                                                                       Banco de México
+
+                                                                      3.4.2 Multiva
+                                                               Principales distribuciones
+     a. Distribución del saldo respecto a                  b. Distribución del monto original                         c. Distribución del plazo
+                     la tasa
+
+
+
+
+             Tasa promedio ponderado por saldo                         Monto promedio                                        Plazo promedio
+
+                                                                 3.4.3 BBVA México
+                                                              Principales distribuciones
+     a. Distribución del saldo respecto a                  b. Distribución del monto original                         c. Distribución del plazo
+                     la tasa
+
+
+
+
+         Tasa promedio ponderado por saldo                            Monto promedio (miles de pesos)                         Plazo promedio
+
+                                                                        3.4.4 HSBC
+                                                              Principales distribuciones
+     a. Distribución del saldo respecto a                  b. Distribución del monto original                         c. Distribución del plazo
+                     la tasa
+
+
+
+
+              Tasa promedio ponderado por saldo                       Monto promedio (miles de pesos)                      Plazo promedio
+Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a revisión.
+
+                                                                        Uso Público
+
+                                                                   Información de acceso público.
+
+
+
+                       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                24
+                                                                                                                       Banco de México
+
+                                                                    3.4.5 Banamex
+                                                              Principales distribuciones
+     a. Distribución del saldo respecto a                  b. Distribución del monto original                         c. Distribución del plazo
+                     la tasa
+
+
+
+
+              Tasa promedio ponderado por saldo                      Monto promedio (miles de pesos)                       Plazo promedio
+
+                                                                   3.4.6 Scotiabank
+                                                              Principales distribuciones
+     a. Distribución del saldo respecto a                  b. Distribución del monto original                         c. Distribución del plazo
+                     la tasa
+
+
+
+
+               Tasa promedio ponderado por saldo                 Monto promedio (miles de pesos)                       Plazo promedio
+
+                                                                    3.4.7 Santander
+                                                             Principales distribuciones
+     a. Distribución del saldo respecto a                 b. Distribución del monto original                          c. Distribución del plazo
+                     la tasa
+
+
+
+
+              Tasa promedio ponderado por saldo                   Monto promedio (miles de pesos)                     Plazo promedio
+Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a revisión.
+
+                                                                        Uso Público
+
+                                                                   Información de acceso público.
+
+
+
+                       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                               25
+                                                                                                                       Banco de México
+
+                                                                  3.4.8 Consubanco
+                                                            Principales distribuciones
+     a. Distribución del saldo respecto a                b. Distribución del monto original                           c. Distribución del plazo
+                     la tasa
+
+
+
+
+              Tasa promedio ponderado por saldo                      Monto promedio (miles de pesos)                       Plazo promedio
+
+                                                                       3.4.9 Azteca
+                                                            Principales distribuciones
+     a. Distribución del saldo respecto a                b. Distribución del monto original                           c. Distribución del plazo
+                     la tasa
+
+
+
+
+             Tasa promedio ponderado por saldo                   Monto promedio (miles de pesos)                       Plazo promedio
+                                                                3.4.10 Compartamos
+                                                            Principales distribuciones
+ a. Distribución del saldo respecto a la             b. Distribución del monto original                     c. Distribución del plazo
+                   tasa
+
+
+
+
+             Tasa promedio ponderado por saldo                   Monto promedio (miles de pesos)                       Plazo promedio
+Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a revisión.
+
+
+                                                                        Uso Público
+
+                                                                   Información de acceso público.
+
+
+
+                       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                               26
+                                                                                                              Banco de México
+
+                                                             3.4.11 BanCoppel
+                                                       Principales distribuciones
+a. Distribución del saldo respecto a la         b. Distribución del monto original                  c. Distribución del plazo
+                  tasa
+
+
+
+
+          Tasa promedio ponderado por saldo                Monto promedio (miles de pesos)                     Plazo promedio
+   Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a revisión.
+
+
+
+
+                                                                  Uso Público
+
+                                                             Información de acceso público.
+
+
+
+                    Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                          27
+                                                                                                       Banco de México
+
+    4. Condiciones de oferta de los microcréditos
+
+En agosto de 2025, se encontraron en operación 3.6 millones de microcréditos individuales y grupales
+otorgados por cinco instituciones de banca múltiple y sociedades financieras de objeto múltiple. El
+saldo de estos créditos ascendió a 51.5 miles de millones de pesos.31, 32
+
+En la sección 4.1, se delimita el universo de información de los microcréditos grupales e individuales
+para formar la cartera comparable de este tipo de créditos. En la sección 4.2, se muestran indicadores
+agregados de microcréditos; en la sección 4.3, se presentan tabulados comparativos para las distintas
+instituciones; por último, en la sección 4.4, se presentan distribuciones de saldo por tasa de interés,
+plazo y monto para las distintas instituciones de microcréditos grupales e individuales.
+
+          4.1 Universo de la información incluida: conformación de la cartera comparable de
+              microcréditos
+Para la conformación de la cartera comparable de microcréditos se excluyen los siguientes créditos:
+
+    •     Los créditos asociados con productos que no son accesibles al público en general.
+    •     Los créditos que fueron reestructurados, ya que en algunos casos las condiciones originales de
+          contratación pueden ser modificadas.
+    •     Los créditos que se encuentran con atrasos en los pagos (créditos en etapa 1 o 2), así como los
+          créditos en mora o cartera vencida (créditos en etapa 3).
+    •     Los que fueron otorgados a plazos y montos superiores a los establecidos en la Circular Única
+          de Bancos.33
+    •     Los créditos de productos con características marcadamente distintas a las del resto de otros
+          productos, lo que dificulta su comparabilidad.
+
+
+
+
+31 Para el caso de microcréditos grupales, para cada integrante de un grupo en específico, se contabiliza uno o más créditos
+
+  y no un solo crédito asociado al grupo. Esta distinción es importante porque los créditos para cada integrante pueden tener
+  características distintas en la tasa, plazo o monto.
+32 Al momento de la elaboración del reporte no se considera la información de microcréditos grupales de Afirme debido a
+
+  que la institución reportó a Banco de México un crédito asociado a cada grupo y no créditos asociados a cada integrante
+  de los grupos.
+33 Para el caso del monto original, se toma el valor de las UDIS al 31 de agosto de 2025.
+
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                28
+                                                                                                          Banco de México
+
+          4.2 Características de la cartera comparable de microcréditos
+Aquí se presentan indicadores agregados de la cartera comparable de los microcréditos respecto a las
+siguientes características: 1) tasa de interés, 2) monto, 3) plazo (en meses)34 y pérdida esperada.35 El
+Cuadro 3 resume la información de estos créditos para el total de la cartera de microcréditos y para
+los microcréditos otorgados durante agosto de 2025.36 La información de microcréditos grupales se
+refiere a la de los créditos otorgados a cada uno de los integrantes de los distintos grupos y no a un
+crédito para cada grupo.
+                                            Cuadro 3
+                   Cartera comparable de microcréditos vigentes a agosto de 2025
+
+
+
+
+Notas: El total de créditos se refiere a los créditos existentes al 31 de agosto de 2025, independientemente de la fecha en
+que fueron otorgados.
+Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+revisión.
+
+El número total de microcréditos individuales y grupales ascendió a 3.0 millones, con un saldo de 45.9
+mil millones de pesos. La tasa de interés promedio ponderado de los microcréditos grupales fue de
+73.1 por ciento y la de los microcréditos individuales fue de 58.3 por ciento.
+
+La distribución del saldo de los microcréditos respecto a la tasa de interés mostró una amplia
+dispersión para el caso de microcréditos grupales (Gráfica 10a), mientras que fue más compacta para
+los microcréditos individuales (Gráfica 10b).
+
+
+
+
+34 En el Apéndice II se explica, de manera más detallada, la forma en la que se calcularon los plazos mensuales.
+
+35 La pérdida esperada está definida como la media de la distribución de probabilidad del importe de las pérdidas de un activo.
+  Para fines del cálculo de las reservas para riesgos crediticios, la pérdida esperada se determina multiplicando la probabilidad
+  de incumplimiento por el producto de la severidad de la pérdida en caso de incumplimiento y por la exposición al
+  incumplimiento, en los términos del Artículo 2 Bis 92 de las Disposiciones Generales Aplicables a las Instituciones de Crédito
+  (Circular Única de Bancos).
+36 El Cuadro 3 presenta, adicionalmente, información de microcréditos comparables otorgados en el agosto de 2025 y que,
+
+  igualmente, se encontraban en operación al 31 de agosto de 2025. En el Apéndice II se da información más detallada de
+  estos grupos de créditos.
+                                                         Uso Público
+
+                                                    Información de acceso público.
+
+
+
+      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                     29
+                                                                                                                Banco de México
+
+                                                            Gráfica 10
+         Distribución del saldo de la cartera comparable de microcréditos de acuerdo a su
+             tasa de interés – Total de créditos otorgados y vigentes a agosto de 2025
+                    a) Microcréditos grupales                                           b) Microcréditos individuales
+
+
+
+
+         Tasa promedio ponderado por saldo (por ciento)                          Tasa promedio ponderado por saldo (por ciento)
+ Para fines ilustrativos, el saldo otorgado a tasas mayores a 120 por ciento, se acumula en 120.
+ Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+ revisión.
+
+
+
+La tasa promedio ponderado por saldo del total de los microcréditos grupales e individuales presentó
+una tendencia descendente desde agosto de 2023 (Gráfica 11a). Por su parte, la tasa de interés
+promedio ponderado de los microcréditos grupales e individuales otorgados en el último mes también
+descendió desde diciembre de 2021, aunque de modo menos pronunciado y con una mayor volatilidad
+en los microcréditos grupales (Gráfica 11b).
+
+
+
+
+                                                          Uso Público
+
+                                                    Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                           30
+                                                                                                                  Banco de México
+
+                                               Gráfica 11
+      Evolución de la tasa de interés promedio ponderado por saldo de la cartera comparable de
+                      microcréditos vigentes a la fecha de corte de la información
+                  a) Total de créditos otorgados                                         b) Créditos otorgados en el último mes
+                           Por ciento                                                                Por ciento
+
+
+
+
+Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOMEs reguladas. Cifras sujetas a
+revisión.
+
+      En agosto de 2025, el monto promedio de los microcréditos grupales otorgados a cada uno de los
+      integrantes fue de 20.2 mil pesos, mostrando un aumento de 2.7 por ciento respecto a agosto de 2024,
+      en términos reales (Gráfica 12a). Por su parte, el monto promedio de los microcréditos individuales,
+      en agosto de 2025, fue de 61.7 mil pesos, mostrando un aumento de 7.5 por ciento en términos reales
+      respecto a agosto de 2024 (Gráfica 12b).
+
+
+
+
+                                                             Uso Público
+
+                                                        Información de acceso público.
+
+
+
+             Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                               31
+                                                                                                      Banco de México
+
+                                          Gráfica 12
+      Distribución de los microcréditos conforme a su monto original. Total de la cartera
+                               comparable en pesos corrientes
+                a) Microcréditos grupales                                        b)   Microcréditos individuales
+
+
+
+
+ Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+ revisión.
+
+La distribución del plazo de los microcréditos grupales mostró un rango muy estrecho, entre 3 y 6
+meses, y con un promedio de 4 meses (Gráfica 13a). Por su parte, la distribución del plazo de los
+microcréditos individuales mostró una mayor dispersión, con un plazo promedio de 14 meses (Gráfica
+13b).
+                                                Gráfica 13
+                          Plazo de la cartera comparable de los microcréditos
+                a) Microcréditos grupales                                        b) Microcréditos individuales
+
+
+
+
+ Fuente: Gráficas elaboradas con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+ revisión.
+
+
+
+
+                                                     Uso Público
+
+                                                Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                            32
+                                                                                                Banco de México
+Para microcréditos grupales, uno de los factores que guarda mayor relación con su nivel de tasa de
+interés es el número de personas integrantes del grupo: en promedio, cuantas más personas tenga el
+grupo, se observa una menor tasa de interés asociada a los créditos otorgados a cada persona
+solicitante. En el caso de microcréditos grupales, las personas integrantes tienen la obligación solidaria
+de los créditos otorgados al resto del grupo y, en caso de que alguna persona decida dejar de pagar el
+crédito, las demás personas integrantes tienen la obligación de pagar el crédito de la persona que dejó
+de pagar. En agosto de 2025, la tasa de interés promedio ponderado de los microcréditos grupales
+otorgados a grupos con más de 15 integrantes fue 61.4 por ciento, 27.2 puntos porcentuales menor
+que la de los grupos con un máximo de cinco integrantes (88.6 por ciento). Los grupos de entre 6 y 10
+personas concentraron el mayor número de créditos (39.9 por ciento) y porcentaje del saldo (32.4 por
+ciento) (Gráfica 14).
+
+
+
+                                          Gráfica 14
+   Distribución del número y saldo de la cartera comparable de microcréditos grupales de
+    acuerdo al número de personas integrantes del grupo– Total de créditos otorgados y
+                                 vigentes a agosto de 2025
+
+
+
+
+ Fuente: Gráfica elaborada con datos proporcionados por instituciones de banca múltiple y SOFOM E.R. Cifras sujetas a
+ revisión.
+
+
+
+
+                                                    Uso Público
+
+                                               Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                          33
+                                                                                    Banco de México
+
+        4.3 Comparativo de las características de los microcréditos otorgados por
+            instituciones
+En esta sección, se presentan indicadores de tasas de interés, plazos, montos y pérdida esperada para
+el sistema y para cada institución intermediaria que ofreció microcréditos comparables y que se
+encontraban vigentes al 31 de agosto de 2025. La información se presenta para microcréditos grupales
+y microcréditos individuales.
+
+Cartera comparable total de microcréditos grupales a agosto de 2025
+En este apartado, la información que se presenta para el sistema y para cada institución intermediaria
+se refiere a la cartera comparable total a agosto de 2025, independientemente de la fecha de
+otorgamiento de los créditos (Cuadro 4). Se destaca lo siguiente:
+
+       •      La tasa de interés promedio ponderado fue de 73.1 por ciento. Las instituciones que
+              tuvieron las tasas de interés promedio ponderado por saldo más bajas fueron Grameen
+              Carso (35.0 por ciento), Compartamos (72.9 por ciento) y Santander Inclusión Financiera
+              (80.7 por ciento).
+       •      Las instituciones que otorgaron, en promedio, los montos de crédito más elevados
+              fueron Forjadores (25.2 mil pesos), Compartamos (20.3 mil pesos) y Santander Inclusión
+              Financiera (15.6 mil pesos).
+       •      La única institución que presentó reducción en su tasa promedio ponderado fue
+              Forjadores (-14.0 puntos porcentuales).
+       •      Compartamos representó el 96.1 por ciento del número total de microcréditos y el 96.9
+              por ciento del saldo.
+       •      La pérdida esperada fue de 1.9 por ciento. Las instituciones con las pérdidas esperadas
+              más elevadas fueron: Santander Inclusión Financiera (2.2 por ciento), Forjadores (2.0
+              por ciento) y Compartamos (1.9 por ciento).
+
+
+
+
+                                              Uso Público
+
+                                         Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025            34
+                                                                                                      Banco de México
+
+                                            Cuadro 4
+               Cartera comparable total de microcréditos grupales a agosto de 2025
+             (En paréntesis el cambio respecto a los créditos en operación en agosto de 2024)
+
+
+
+
+ Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025.
+ Fuente: Cuadro elaborado con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+Cartera comparable total de microcréditos individuales a agosto de 2025
+En el caso de los microcréditos individuales, destaca lo siguiente (Cuadro 5):
+
+        •       La tasa de interés promedio ponderado fue de 58.3 por ciento. Las instituciones que
+                tuvieron las tasas de interés promedio ponderado por saldo más bajas fueron
+                Compartamos (57.5 por ciento), Afirme (76.2 por ciento) y Santander Inclusión
+                Financiera (76.9 por ciento).
+        •       Las instituciones que otorgaron, en promedio, los montos de crédito más elevados
+                fueron Compartamos (63.8 mil pesos), Afirme (39.5 mil pesos) y Forjadores (38.3 mil
+                pesos).
+        •       Las instituciones que presentaron reducciones en sus tasas promedio ponderado fueron
+                Afirme (-4.8 puntos porcentuales) y Compartamos (-1.8 puntos porcentuales).
+        •       Compartamos representó el 91.9 por ciento del número total de microcréditos
+                individuales y el 96.5 por ciento del saldo.
+        •       La pérdida esperada fue de 6.9 por ciento. Las instituciones con las pérdidas esperadas
+                más elevadas fueron: Afirme (8.3 por ciento), Compartamos (6.7 por ciento) y
+                Forjadores (6.5 por ciento).
+
+
+
+
+                                                       Uso Público
+
+                                                  Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                           35
+                                                                                                    Banco de México
+
+                                           Cuadro 5
+            Cartera comparable total de microcréditos individuales, a agosto de 2025
+            (En paréntesis el cambio respecto a los créditos en operación en agosto de 2024)
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025.
+Fuente: Cuadro elaborado con datos proporcionados por instituciones de banca múltiple y SOFOMEs reguladas. Cifras
+sujetas a revisión.
+
+
+
+
+                                                       Uso Público
+
+                                                  Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                          36
+                                                                                                                       Banco de México
+
+                        4.4 Principales distribuciones, por institución, de la cartera comparable de
+                            microcréditos
+              Aquí se presenta información de saldo respecto a la tasa de interés, plazo y monto de los microcréditos
+              grupales e individuales, para cada una de las instituciones que aparecen en los Cuadros 4 y 5. El orden
+              de presentación de las instituciones es ascendente respecto a la tasa promedio ponderado por saldo
+              de los créditos otorgados en el periodo mencionado.37
+
+              Microcréditos grupales
+              Para el caso de microcréditos grupales destaca lo siguiente:
+
+                •     Compartamos, Santander Inclusión Financiera y Forjadores presentaron una amplia dispersión
+                      de tasas, mientras que Grameen Carso otorgó la mayoría de sus créditos a una tasa única.
+                •     La distribución del monto original presentó un rango extenso a través de las distintas
+                      instituciones.
+                •     Todas las instituciones otorgaron la mayoría de sus créditos a un único plazo.
+
+                                                               4.4.1 Grameen Carso
+                                                           Principales distribuciones
+d. Distribución del saldo respecto a la                e. Distribución del monto original                             f. Distribución del plazo
+                  tasa
+
+
+
+
+   Tasa promedio ponderado por saldo                                       Monto promedio                              Plazo promedio
+  Fuente: Gráficas elaboradas con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+
+
+              37 Solo se presenta a las instituciones con al menos el 0.25 por ciento del número total de créditos emitidos en dicho periodo.
+
+                                                                       Uso Público
+
+                                                                  Información de acceso público.
+
+
+
+                     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                   37
+                                                                                                                         Banco de México
+
+                                                                4.4.2 Compartamos
+                                                             Principales distribuciones
+d. Distribución del saldo respecto a la                 e. Distribución del monto original                                f. Distribución del plazo
+                  tasa
+
+
+
+
+       Tasa promedio ponderado por saldo                           Monto promedio                                             Plazo promedio
+
+                                                    4.4.3 Santander Inclusión Financiera
+                                                            Principales distribuciones
+d. Distribución del saldo respecto a la                 e. Distribución del monto original                                f. Distribución del plazo
+                  tasa
+
+
+
+
+   Tasa promedio ponderado por saldo                              Monto promedio (miles de pesos)                             Plazo promedio
+
+                                                                  4.4.4 Forjadores
+                                                            Principales distribuciones
+d. Distribución del saldo respecto a la                 e. Distribución del monto original                               f. Distribución del plazo
+                  tasa
+
+
+
+
+        Tasa promedio ponderado por saldo                         Monto promedio (miles de pesos)                           Plazo promedio
+     Fuente: Gráficas elaboradas con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+                                                                       Uso Público
+
+                                                                  Información de acceso público.
+
+
+
+                      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                     38
+                                                                                                                        Banco de México
+                Microcréditos individuales
+
+                Para el caso de microcréditos individuales destaca lo siguiente:
+
+                  •       Las distribuciones del saldo con base en la tasa de las instituciones, así como las del monto
+                          original, exhibieron una amplia dispersión, con excepción de Santander Inclusión Financiera en
+                          la distribución de la tasa.
+                  •       La distribución del plazo no se concentró en un solo valor para cada una de las instituciones, a
+                          diferencia de la de microcréditos grupales.
+
+                                                                  4.4.5 Compartamos
+                                                              Principales distribuciones
+g. Distribución del saldo respecto a la                    h. Distribución del monto original                           i. Distribución del plazo
+                  tasa
+
+
+
+
+       Tasa promedio ponderado por saldo                            Monto promedio (miles de pesos)                        Plazo promedio
+
+
+                                                                       4.4.6 Afirme
+                                                              Principales distribuciones
+g. Distribución del saldo respecto a la                    h. Distribución del monto original                            i. Distribución del plazo
+                  tasa
+
+
+
+
+        Tasa promedio ponderado por saldo                       Monto promedio (miles de pesos)                         Plazo promedio
+    Fuente: Gráficas elaboradas con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+
+
+                                                                         Uso Público
+
+                                                                    Información de acceso público.
+
+
+
+                       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                39
+                                                                                                                        Banco de México
+
+                                                      4.4.7 Santander Inclusión Financiera
+                                                             Principales distribuciones
+g. Distribución del saldo respecto a la                   h. Distribución del monto original                            i. Distribución del plazo
+                  tasa
+
+
+
+
+       Tasa promedio ponderado por saldo                         Monto promedio (miles de pesos)                       Plazo promedio
+
+                                                                    4.4.8 Forjadores
+                                                             Principales distribuciones
+g. Distribución del saldo respecto a la                  h. Distribución del monto original                       i.   Distribución del plazo
+                  tasa
+
+
+
+
+          Tasa promedio ponderado por saldo                          Monto promedio (miles de pesos)                        Plazo promedio
+   Fuente: Gráficas elaboradas con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+
+
+                                                                         Uso Público
+
+                                                                    Información de acceso público.
+
+
+
+                       Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                40
+                                                                                    Banco de México
+
+    5. Apéndice I: Comparativos para la cartera total comparable de créditos
+       personales a agosto de 2025 y para la cartera otorgada en el mes de
+       agosto de 2025 de créditos personales y microcréditos
+
+En este apéndice se presentan tabulados de créditos personales sin distinción de su fecha de
+originación y créditos personales y microcréditos otorgados en el último mes (para el caso de este
+reporte, agosto de 2025).
+
+        5.1 Cartera comparable total de créditos personales a agosto de 2025
+En esta sección, la información que se presenta para el sistema y para cada institución intermediaria
+se refiere a la cartera comparable total a agosto de 2025, independientemente de la fecha de
+otorgamiento de los créditos (Cuadro 6). Se destaca lo siguiente:
+
+       •      La tasa de interés promedio del sistema fue de 39.0 por ciento. Las instituciones que
+              tuvieron las tasas de interés promedio ponderado por saldo más bajas fueron Inbursa
+              (22.7 por ciento), Multiva (24.4 por ciento) y BBVA México (27.1 por ciento).
+       •      Las instituciones que otorgaron, en promedio, los montos de crédito más elevados
+              fueron Santander (227 mil pesos), Scotiabank (192 mil pesos) y HSBC (168 mil pesos).
+       •      Las instituciones que presentaron las reducciones más elevadas en sus tasas promedio
+              ponderado fueron Compartamos (-4.5puntos porcentuales), Azteca (-2.6 puntos
+              porcentuales) y Multiva (-1.7 puntos porcentuales).
+       •      Las instituciones que otorgaron la mayor proporción del total de créditos fueron: Azteca
+              (78.1 por ciento), BBVA México (5.4 por ciento) y BanCoppel (4.3 por ciento), mismas
+              que concentraron el 87.8 por ciento del número de créditos. Por otro lado, las
+              instituciones que concentraron un mayor saldo fueron: Azteca (31.2 por ciento), BBVA
+              México (25.4 por ciento) y Consubanco (9.5 por ciento); estas instituciones tuvieron una
+              participación acumulada del 66.1 por ciento del saldo de los créditos otorgados en el
+              periodo.
+       •      La pérdida esperada fue de 4.6 por ciento. Las instituciones con las pérdidas esperadas
+              más elevadas fueron: BanCoppel (6.7 por ciento), Compartamos (6.4 por ciento) y Azteca
+              (5.5 por ciento).
+
+
+
+
+                                              Uso Público
+
+                                         Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025            41
+                                                                                                           Banco de México
+
+                                             Cuadro 6
+                  Cartera comparable total de créditos personales a agosto de 2025
+             (En paréntesis el cambio respecto a los créditos en operación en agosto de 2024)
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025. Las instituciones
+agrupadas en “Otras Instituciones” por no haber contado con el número de créditos requerido para aparecer en el cuadro
+fueron: Bansí, Ve por Más, Actinver, Autofin, Mercader, Bankaool, Mifel, ION Financiera, Banorte, CI Banco, Banregio,
+Afirme, Bajío, Banco Bineo, Ualá, Fin útil y Forjadores. En conjunto, estas instituciones representaron el 0.6 por ciento del
+número total de créditos vigentes.
+n.a. No aplica
+Fuente: Cuadro elaborado con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+
+
+                                                          Uso Público
+
+                                                     Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                                      42
+                                                                                                       Banco de México
+
+          5.2 Cartera comparable de créditos personales otorgados durante el mes de agosto
+              de 2025
+Para los créditos que se originaron en el mes de agosto de 2025, se observó que (Cuadro 7):
+    •     La tasa de interés promedio ponderado por saldo del sistema fue de 47.1 por ciento, 5.2 puntos
+          porcentuales menor que la de los créditos personales otorgados durante agosto de 2024. Las
+          instituciones con las tasas de interés promedio más bajas fueron BBVA México (28.1 por
+          ciento), Banamex (31.2 por ciento) y Consubanco (32.2 por ciento).38
+    •     Las instituciones que otorgaron los montos promedio de crédito más elevados durante agosto
+          de 2025 fueron Banamex (149 mil pesos), BBVA México (94 mil pesos) y Consubanco (69 mil
+          pesos).
+    •     Las instituciones que presentaron reducciones en su tasa de interés fueron: Consubanco
+          (-0.9 puntos porcentuales) y Azteca (-0.5 puntos porcentuales).
+    •     Las instituciones que otorgaron la mayor proporción del total de créditos fueron: Azteca (90.3
+          por ciento), BanCoppel (2.9 por ciento) y BBVA México (2.3 por ciento), mismas que
+          concentraron 95.6 por ciento del número de créditos. Por otro lado, las instituciones que
+          concentraron un mayor saldo fueron: Azteca (53.2 por ciento), BBVA México (17.4 por ciento)
+          y Banamex (6.6 por ciento); estas instituciones tuvieron una participación acumulada de 77.1
+          por ciento del saldo de los créditos otorgados en el periodo.
+    •     La pérdida esperada en todo el sistema fue de 5.7 por ciento. Las instituciones con las pérdidas
+          esperadas más elevadas fueron: BBVA México (7.6 por ciento), BanCoppel (6.9 por ciento) y
+          Compartamos (6.6 por ciento).
+
+
+
+
+38 La disminución de 5.2 puntos porcentuales en la tasa de interés promedio ponderado del sistema en agosto de 2025
+  respecto al año anterior se asocia a dos factores. Por un lado, Fin útil, que hasta entonces era la segunda institución con
+  mayor saldo y que exhibía la tasa de interés promedio ponderado más alta dentro de la cartera comparable, redujo
+  drásticamente su cartera de créditos, lo cual se reflejó en una reducción en la tasa promedio ponderado agregada. Además,
+  varias instituciones redujeron sus tasas de interés y aumentó la proporción de créditos otorgados por instituciones con
+  tasas menores.
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                               43
+                                                                                                     Banco de México
+
+                                          Cuadro 7
+            Cartera comparable de créditos personales otorgados en agosto de 2025
+              (En paréntesis el cambio respecto a los créditos otorgados en agosto de 2024)
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025. Las instituciones
+agrupadas en “Otras Instituciones” por no haber contado con el número de créditos requerido para aparecer en el cuadro
+fueron: Bansí, Actinver, Autofin, Bankaool, Mifel, Inbursa, Multiva, ION Financiera, Banorte, HSBC, Bancrea, Ve por Más,
+Scotiabank, Bajío, Afirme, Banregio, Santander, Ualá y Forjadores. Estas instituciones representaron el 1.1 por ciento del
+número total de créditos vigentes.
+n.a. No aplica
+Fuente: Cuadro elaborado con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+
+
+                                                      Uso Público
+
+                                                 Información de acceso público.
+
+
+
+      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                              44
+                                                                                                       Banco de México
+
+           5.3 Cartera comparable de microcréditos grupales otorgados durante el mes de
+               agosto de 2025
+Para los microcréditos grupales que se originaron en agosto de 2025, se observó que (Cuadro 8):
+     •     La tasa de interés promedio ponderado por saldo del sistema fue de 74.3 por ciento. Las
+           instituciones con las tasas de interés promedio más bajas fueron Grameen Carso (35.0 por
+           ciento), Compartamos (73.9 por ciento) y Santander Inclusión Financiera (80.9 por ciento).
+     •     Las instituciones que otorgaron los montos promedio de crédito más elevados durante agosto
+           de 2025 fueron Forjadores (22.8 mil pesos), Compartamos (19.7 mil pesos) y Grameen Carso
+           (15.8 mil pesos).
+     •     Compartamos otorgó el 96.4 por ciento del número y el 97.0 por ciento del saldo de los
+           microcréditos grupales otorgados en agosto de 2025.
+     •     La pérdida esperada fue de 1.6 por ciento. Las instituciones con las pérdidas esperadas más
+           elevadas fueron: Forjadores (2.5 por ciento), Santander Inclusión Financiera (1.9 por ciento) y
+           Grameen Carso (1.7 por ciento).
+
+
+                                           Cuadro 8
+            Cartera comparable de microcréditos grupales otorgados en agosto de 2025
+               (En paréntesis el cambio respecto a los créditos otorgados en agosto de 2024)
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025.
+Fuente: Cuadro elaborado con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+
+
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+         Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                        45
+                                                                                                       Banco de México
+
+           5.4 Cartera comparable de microcréditos individuales otorgados durante el mes de
+               agosto de 2025
+Para los microcréditos individuales que se originaron en durante agosto de 2025, se observó que
+(Cuadro 9):
+     •     La tasa de interés promedio ponderado por saldo del sistema fue de 59.9 por ciento. Las
+           instituciones con las tasas de interés promedio más bajas fueron Compartamos (59.0 por
+           ciento), Santander Inclusión Financiera (78.3 por ciento) y Afirme (78.3 por ciento).
+     •     Las instituciones con el monto promedio más elevado fueron Compartamos (63.8 mil pesos),
+           Afirme (37.7 mil pesos) y Forjadores (35.2 mil pesos).
+     •     Las instituciones que presentaron una reducción en su tasa de interés promedio ponderado
+           fueron Afirme (-2.4 puntos porcentuales) y Compartamos (-1.1 puntos porcentuales).
+     •     Compartamos otorgó el 91.1 por ciento del número y el 95.7 por ciento del saldo de los
+           microcréditos individuales otorgados en agosto de 2025.
+     •     La pérdida esperada fue de 6.3 por ciento. Las instituciones con las pérdidas esperadas más
+           elevadas fueron: Forjadores (6.5 por ciento), Compartamos (6.4 por ciento) y Afirme (5.6 por
+           ciento).
+
+                                           Cuadro 9
+          Cartera comparable de microcréditos individuales otorgados en agosto de 2025
+               (En paréntesis el cambio respecto a los créditos otorgados en agosto de 2024)
+
+
+
+
+Notas: Las instituciones están ordenadas por la tasa promedio ponderado por saldo en agosto de 2025.
+Fuente: Cuadro elaborado con datos proporcionados por las instituciones de crédito. Cifras sujetas a revisión.
+
+
+
+
+                                                        Uso Público
+
+                                                   Información de acceso público.
+
+
+
+         Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                        46
+                                                                                      Banco de México
+
+    6. Apéndice II: Información metodológica
+
+          6.1 Universo de créditos personales incluidos en el reporte
+La información utilizada para elaborar este reporte corresponde a créditos personales que cumplieron
+con las siguientes características:
+
+    •     Se encontraron vigentes al 31 de agosto de 2025 y al corriente en sus pagos (no tuvieron un
+          solo día de atraso).
+    •     Fueron otorgados al público en general; se excluyeron los créditos ofrecidos en condiciones
+          preferenciales o a personas relacionadas con la institución que los otorga.
+    •     Solamente se incluyeron créditos personales concedidos por instituciones de banca múltiple y
+          sociedades financieras de objeto múltiple reguladas.
+    •     Al momento del reporte conservaron las condiciones originales de su contratación; se
+          excluyeron los créditos reestructurados, los provenientes de compras de cartera en los casos
+          en que los términos originales cambiaron y los créditos que fueron inscritos en programas de
+          apoyo por la contingencia sanitaria causada por el covid-19.
+    •     Denominados en moneda nacional.
+    •     Créditos con tasa distinta de cero o créditos que fueron emitidos por un monto original menor
+          o igual a 1 millón de pesos.
+    •     Créditos comparables entre instituciones (se excluyeron créditos que exigieran la entrega de
+          una garantía física como la factura de un automóvil).
+
+Del total de créditos personales otorgados por instituciones financieras reguladas a agosto de 2025
+(15,204,130), el número final de créditos analizados fue de 11,027,366 créditos, es decir, debido a los
+filtros se eliminó el 27.5 por ciento de los datos.
+                                                   Cuadro 10
+                 Criterios para la definición del universo de créditos personales analizados
+
+
+
+
+        Nota: Los criterios para filtrar créditos fueron aplicados secuencialmente.
+
+
+
+
+                                                         Uso Público
+
+                                                    Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025          47
+                                                                                        Banco de México
+
+
+
+          6.2 Universo de microcréditos incluidos en el reporte
+La información de microcréditos individuales y grupales utilizada para la elaboración de este reporte
+corresponde a microcréditos que cumplieron con las siguientes características:
+
+   •      Se encontraron en operación 31 de agosto de 2025 y al corriente en sus pagos (no tuvieron un
+          solo día de atraso).
+   •      Fueron otorgados al público en general; se excluyeron los créditos ofrecidos en condiciones
+          preferenciales o a personas relacionadas con la institución que los otorga.
+   •      Solamente se incluyeron microcréditos concedidos por instituciones de banca múltiple y
+          sociedades financieras de objeto múltiple reguladas.
+   •      Al momento del reporte conservaron las condiciones originales de su contratación; se
+          excluyeron los créditos reestructurados, los provenientes de compras de cartera en los casos
+          en que los términos originales cambiaron.
+    •     Créditos que fueron emitidos por un monto o plazo dentro del límite establecido en la Circular
+          Única de Bancos.
+    •     Créditos con características marcadamente distintas al resto que impidan su comparación.
+
+Del total de microcréditos otorgados por instituciones financieras reguladas a agosto de 2025
+(3,558,493), el número final de créditos analizados fue de 2,994,405 créditos, es decir, debido a los
+filtros se eliminó el 15.9 por ciento de los datos.
+
+                                                   Cuadro 11
+                     Criterios para la definición del universo de microcréditos analizados
+
+
+
+
+          Nota: Los criterios para filtrar créditos fueron aplicados secuencialmente.
+
+
+
+
+                                                         Uso Público
+
+                                                    Información de acceso público.
+
+
+
+        Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025           48
+                                                                                                     Banco de México
+
+         6.3 Tasas de interés y plazos
+Este reporte incluye información sobre el costo promedio anual de créditos no revolventes tanto a
+nivel agregado como por institución. Las tasas de interés utilizadas para la elaboración de los
+indicadores corresponden a la tasa de interés anual ordinaria (sin I.V.A.) que se pactan en la originación
+de los contratos de cada uno de los créditos y que son fijas.39 A partir de estas tasas de interés se
+elaboran cada uno de los indicadores para el sistema, para las instituciones y para las segmentaciones
+relevantes.
+
+Para cada persona 𝑖, se cuenta con la tasa de interés que le cobra la institución intermediaria 𝑗,
+denominada 𝑇𝑖𝑗 y con el saldo del crédito vigente, 𝑆𝑖𝑗 . Con esta información se estima la Tasa de Interés
+Promedio Ponderado por saldo (𝑇𝑃𝑃)40 como se explica a continuación:
+
+Para obtener la Tasa Promedio Ponderado de la institución 𝑗 (𝑇𝑃𝑃𝑗 ), se define la participación de cada
+crédito 𝑖, en la cartera total de la institución 𝑗 como:
+
+                                                                          𝑆
+                                                       𝜌𝑖𝑗 = ∑ 𝑖𝑗𝑆 ;
+                                                                          𝑖 𝑖𝑗
+
+
+La 𝑇𝑃𝑃𝑗 se obtiene multiplicando la 𝑇𝑖𝑗 por la participación correspondiente del crédito y sumando
+sobre todos los créditos 𝑖 asociados a la institución intermediaria 𝑗:
+
+                                                 𝑇𝑃𝑃𝑗 = ∑ 𝑇𝑖𝑗 ∗ 𝜌𝑖𝑗
+                                                                  𝑖
+
+
+Posteriormente, para obtener la 𝑇𝑃𝑃 del sistema, para cada institución 𝑗 definimos su saldo de crédito
+otorgado como la suma de los saldos de sus créditos:
+
+                                                       𝑆𝑗 = ∑ 𝑆𝑖𝑗
+                                                                      𝑖
+
+
+Y su participación en la cartera total del sistema como:
+
+                                                                       𝑆𝑗
+                                                        𝜌𝑗 =
+                                                                      ∑𝑗 𝑆𝑗
+
+La 𝑇𝑃𝑃 del Sistema se obtiene multiplicando la 𝑇𝑃𝑃𝑗 por la participación correspondiente de la
+institución 𝑗 y sumando sobre todas las instituciones:
+
+                                                𝑇𝑃𝑃 = ∑ 𝑇𝑃𝑃𝑗 ∗ 𝜌𝑗
+                                                              𝑗
+
+
+Los indicadores estadísticos mencionados se obtienen para los diferentes segmentos del mercado y
+para cada institución intermediaria.
+
+
+39 Para mayor referencia, ver el “Formulario de créditos al consumo no revolvente CR”, Sección “C. Ayudas Específicas”.
+
+ Disponible en: http://www.banxico.org.mx/waFormulariosDGASF/WEB/CNRAyudasGenericasCompleto.pdf
+40 Es la tasa de interés que divide el saldo de crédito otorgado en dos segmentos del mismo monto.
+
+                                                       Uso Público
+
+                                                  Información de acceso público.
+
+
+
+      Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                            49
+                                                                                         Banco de México
+Para cada institución intermediaria, la pérdida esperada se obtiene al dividir la suma de las reservas a
+constituir de todos los créditos entre la suma del saldo insoluto de estos mismos créditos. La pérdida
+esperada del sistema se obtiene de la misma forma, considerando las reservas a constituir y el saldo
+insoluto de todas las instituciones.
+
+Puesto que los créditos pueden pagarse con diferente periodicidad (v.g., mensual, quincenal, semanal)
+es necesario hacerlos compatibles para poder calcular los indicadores mencionados. Para cada uno de
+los créditos se cuenta con información de la frecuencia del pago y de su plazo total. Utilizando estas
+dos cifras se calcula el plazo promedio del crédito en meses de la siguiente manera:
+
+         𝑃𝑙𝑎𝑧𝑜 𝑡𝑜𝑡𝑎𝑙∗7
+    a)       30.4
+                       si la frecuencia de cobro es semanal.
+         𝑃𝑙𝑎𝑧𝑜 𝑡𝑜𝑡𝑎𝑙∗10
+    b)        30.4
+                        si la frecuencia de cobro es decenal.
+         𝑃𝑙𝑎𝑧𝑜 𝑡𝑜𝑡𝑎𝑙∗14
+    c)        30.4
+                        si la frecuencia de cobro es catorcenal.
+         𝑃𝑙𝑎𝑧𝑜 𝑡𝑜𝑡𝑎𝑙∗15
+    d)                  si la frecuencia de cobro es quincenal.
+              30.4
+
+Finalmente, el valor que se obtiene se redondea de la manera tradicional.
+
+Con la finalidad de que las personas usuarias de la información aprecien que las instituciones
+intermediarias otorgan crédito a diferentes tasas de interés, se presentan varias gráficas para cada
+institución que contienen las distribuciones del saldo de crédito otorgado a cada nivel de tasa.
+
+         6.4 Criterios de inclusión de instituciones
+Algunas instituciones no se incluyeron en el reporte porque tenían muy pocos créditos y su
+información presentó una alta variabilidad y, por tanto, era posible que distorsionaran la consistencia
+de la información. El criterio de inclusión fue que las instituciones tuvieran, al menos, el 0.25 por ciento
+del número total de créditos considerados en el cuadro o gráfico correspondiente. Nótese que no
+necesariamente se incluyeron las mismas instituciones en cada cuadro, ya que conforme la
+información del cuadro se hizo más precisa las instituciones incluidas pudieron cambiar.
+
+
+
+
+                                                 Uso Público
+
+                                            Información de acceso público.
+
+
+
+     Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025                  50
+                                                                           Banco de México
+
+
+
+
+                                    Julio de 2021
+
+
+
+
+                                       Uso Público
+
+                                  Información de acceso público.
+
+
+
+Indicadores Básicos de Créditos Personales y Microcréditos. Datos a agosto de 2025     51
+

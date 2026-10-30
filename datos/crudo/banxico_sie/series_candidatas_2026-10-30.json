@@ -1,0 +1,122 @@
+{
+ "SF282": {
+  "titulo": "Cetes 28 días Tasa de rendimiento promedio mensual, en por ciento anual",
+  "periodicidad": "Mensual",
+  "unidad": "Porcentajes",
+  "fechaFin": "01/09/2026",
+  "ultimo": {
+   "fecha": "01/09/2026",
+   "dato": "6.29"
+  }
+ },
+ "SP30578": {
+  "titulo": "Índice Nacional de Precios al consumidor variación anual",
+  "periodicidad": "Mensual",
+  "unidad": "Sin Unidad",
+  "fechaFin": "01/09/2026",
+  "ultimo": {
+   "fecha": "01/09/2026",
+   "dato": "3.45000000"
+  }
+ },
+ "SP30577": {
+  "titulo": "Índice Nacional de Precios al consumidor Variación mensual",
+  "periodicidad": "Mensual",
+  "unidad": "Sin Unidad",
+  "fechaFin": "01/09/2026",
+  "ultimo": {
+   "fecha": "01/09/2026",
+   "dato": "0.42000000"
+  }
+ },
+ "SF43936": {
+  "titulo": "Valores gubernamentales                        Resultados de la subasta semanal Tasa de rendimiento                            Cetes a 28 días",
+  "periodicidad": "Diaria",
+  "unidad": "Porcentajes",
+  "fechaFin": "29/10/2026",
+  "ultimo": {
+   "fecha": "29/10/2026",
+   "dato": "6.22"
+  }
+ },
+ "SF43939": {
+  "titulo": "Valores gubernamentales                        Resultados de la subasta semanal Tasa de rendimiento                            Cetes a 91 días",
+  "periodicidad": "Diaria",
+  "unidad": "Porcentajes",
+  "fechaFin": "29/10/2026",
+  "ultimo": {
+   "fecha": "29/10/2026",
+   "dato": "6.69"
+  }
+ },
+ "SF43942": {
+  "titulo": "Valores gubernamentales                        Resultados de la subasta semanal Tasa de rendimiento                            Cetes a 182 días",
+  "periodicidad": "Diaria",
+  "unidad": "Porcentajes",
+  "fechaFin": "29/10/2026",
+  "ultimo": {
+   "fecha": "29/10/2026",
+   "dato": "6.80"
+  }
+ },
+ "SF43945": {
+  "titulo": "Valores gubernamentales                        Resultados de la subasta semanal Tasa de rendimiento                            Cetes a 364 días",
+  "periodicidad": "Diaria",
+  "unidad": "Porcentajes",
+  "fechaFin": "29/10/2026",
+  "ultimo": {
+   "fecha": "29/10/2026",
+   "dato": "7.12"
+  }
+ },
+ "SF43783": {
+  "titulo": "TIIE a 28 días Tasa de interés en por ciento anual",
+  "periodicidad": "Diaria",
+  "unidad": "Sin Unidad",
+  "fechaFin": "30/10/2026",
+  "ultimo": {
+   "fecha": "30/10/2026",
+   "dato": "6.7860"
+  }
+ },
+ "SF61745": {
+  "titulo": "Tasa objetivo",
+  "periodicidad": "Diaria",
+  "unidad": "Sin Unidad",
+  "fechaFin": "30/10/2026",
+  "ultimo": {
+   "fecha": "30/10/2026",
+   "dato": "6.5000"
+  }
+ },
+ "SP68257": {
+  "titulo": "Valor de UDIS",
+  "periodicidad": "Diaria",
+  "unidad": "Unidades de Inversión",
+  "fechaFin": "10/11/2026",
+  "ultimo": {
+   "fecha": "10/11/2026",
+   "dato": "8.897671"
+  }
+ },
+ "SF43718": {
+  "titulo": "Tipo de cambio                                          Pesos por dólar E.U.A. Tipo de cambio para solventar obligaciones denominadas en moneda extranjera Fecha de determinación (FIX)",
+  "periodicidad": "Diaria",
+  "unidad": "Pesos por Dólar",
+  "fechaFin": "29/10/2026",
+  "ultimo": {
+   "fecha": "29/10/2026",
+   "dato": "18.8148"
+  }
+ },
+ "SF60653": {
+  "titulo": "Tipo de cambio pesos por dólar E.U.A. Tipo de cambio para solventar obligaciones denominadas en moneda extranjera Fecha de liquidación",
+  "periodicidad": "Diaria",
+  "unidad": "Pesos por Dólar",
+  "fechaFin": "03/11/2026",
+  "ultimo": {
+   "fecha": "03/11/2026",
+   "dato": "18.8148"
+  }
+ }
+}
